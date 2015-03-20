@@ -1,0 +1,3201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PauPress Basic 1.5\n"
+"POT-Creation-Date: 2014-03-13 07:25-0800\n"
+"PO-Revision-Date: 2014-03-13 07:26-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: paupress.php:106
+msgid "sign in"
+msgstr ""
+
+#: paupress.php:107
+msgid "sign out"
+msgstr ""
+
+#: paupress.php:108
+msgid "sign up"
+msgstr ""
+
+#: paupress.php:109 paupress.php:369
+msgid "My Profile"
+msgstr ""
+
+#: paupress.php:110
+msgid "Thank you!"
+msgstr ""
+
+#: paupress.php:111
+msgid "How did you get here?"
+msgstr ""
+
+#: paupress.php:112
+msgid "Confirm Deletion?"
+msgstr ""
+
+#: paupress.php:113
+msgid "Confirm Submission?"
+msgstr ""
+
+#: paupress.php:114
+msgid "Support Documentation"
+msgstr ""
+
+#: paupress.php:115
+msgid "Discount"
+msgstr ""
+
+#: paupress.php:116
+msgid "Quantity"
+msgstr ""
+
+#: paupress.php:117
+msgid "Amount"
+msgstr ""
+
+#: paupress.php:118
+msgid "Tax"
+msgstr ""
+
+#: paupress.php:119
+msgid "Shipping"
+msgstr ""
+
+#: paupress.php:120
+msgid "Billing"
+msgstr ""
+
+#: paupress.php:121
+msgid "Refund"
+msgstr ""
+
+#: paupress.php:122
+msgid "Credit"
+msgstr ""
+
+#: paupress.php:123
+#, php-format
+msgid "%1$sDefault%2$s"
+msgstr ""
+
+#: paupress.php:319
+msgid "duplicate key!"
+msgstr ""
+
+#: paupress.php:320
+msgid "One Moment Please..."
+msgstr ""
+
+#: paupress.php:322 theme/paupanels.php:87
+#, php-format
+msgid ""
+"We found some errors -- please attend to the fields below marked with %1$s"
+msgstr ""
+
+#: paupress.php:369 paupress.php:373
+msgid "PauPress User"
+msgstr ""
+
+#: paupress.php:373 users/paupress-profile.php:60
+msgid "Add New User"
+msgstr ""
+
+#: paupress.php:376
+msgid "PauPress Reports"
+msgstr ""
+
+#: paupress.php:376 reports/paupress-reports.php:287
+msgid "User Reports"
+msgstr ""
+
+#: paupress.php:379
+msgid "PauPress"
+msgstr ""
+
+#: paupress.php:382 fields/paupress-field-management.php:233
+msgid "Manage Fields"
+msgstr ""
+
+#: paupress.php:385 theme/paupanels-incoming.php:14
+msgid "Inbound Activity"
+msgstr ""
+
+#: paupress.php:388
+msgid "New Action"
+msgstr ""
+
+#: updates.php:99
+msgid " find out why and how to fix it!"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:36
+msgid "Australian Capital Territory"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:37
+msgid "New South Wales"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:38
+msgid "Northern Territory"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:39
+msgid "Queensland"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:40
+msgid "South Australia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:41
+msgid "Tasmania"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:42
+msgid "Victoria"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:43
+msgid "Western Australia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:46
+msgid "Alberta"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:47
+msgid "British Columbia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:48
+msgid "Manitoba"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:49
+msgid "New Brunswick"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:50
+msgid "Newfoundland"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:51
+msgid "Northwest Territories"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:52
+msgid "Nova Scotia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:53
+msgid "Nunavut"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:54
+msgid "Ontario"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:55
+msgid "Prince Edward Island"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:56
+msgid "Quebec"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:57
+msgid "Saskatchewan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:58
+msgid "Yukon Territory"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:61
+msgid "Alabama"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:62
+msgid "Alaska"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:63
+msgid "Arizona"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:64
+msgid "Arkansas"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:65
+msgid "California"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:66
+msgid "Colorado"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:67
+msgid "Connecticut"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:68
+msgid "Delaware"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:69
+msgid "District Of Columbia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:70
+msgid "Florida"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:71 fields/paupress-field-helpers.php:206
+msgid "Georgia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:72
+msgid "Hawaii"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:73
+msgid "Idaho"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:74
+msgid "Illinois"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:75
+msgid "Indiana"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:76
+msgid "Iowa"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:77
+msgid "Kansas"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:78
+msgid "Kentucky"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:79
+msgid "Louisiana"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:80
+msgid "Maine"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:81
+msgid "Maryland"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:82
+msgid "Massachusetts"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:83
+msgid "Michigan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:84
+msgid "Minnesota"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:85
+msgid "Mississippi"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:86
+msgid "Missouri"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:87
+msgid "Montana"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:88
+msgid "Nebraska"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:89
+msgid "Nevada"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:90
+msgid "New Hampshire"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:91
+msgid "New Jersey"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:92
+msgid "New Mexico"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:93
+msgid "New York"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:94
+msgid "North Carolina"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:95
+msgid "North Dakota"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:96
+msgid "Ohio"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:97
+msgid "Oklahoma"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:98
+msgid "Oregon"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:99
+msgid "Pennsylvania"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:100
+msgid "Rhode Island"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:101
+msgid "South Carolina"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:102
+msgid "South Dakota"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:103
+msgid "Tennessee"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:104
+msgid "Texas"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:105
+msgid "Utah"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:106
+msgid "Vermont"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:107
+msgid "Virginia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:108
+msgid "Washington"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:109
+msgid "West Virginia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:110
+msgid "Wisconsin"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:111
+msgid "Wyoming"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:112
+msgid "Armed Forces Americas"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:113
+msgid "Armed Forces Europe"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:114
+msgid "Armed Forces Pacific"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:115
+msgid "American Samoa"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:116
+msgid "Micronesia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:117
+msgid "Guam"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:118
+msgid "Marshall Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:119
+msgid "Puerto Rico"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:120
+msgid "U.S. Virgin Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:129
+msgid "Afghanistan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:130
+msgid "&#197;land Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:131
+msgid "Albania"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:132
+msgid "Algeria"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:133
+msgid "Andorra"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:134
+msgid "Angola"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:135
+msgid "Anguilla"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:136
+msgid "Antarctica"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:137
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:138
+msgid "Argentina"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:139
+msgid "Armenia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:140
+msgid "Aruba"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:141
+msgid "Australia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:142
+msgid "Austria"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:143
+msgid "Azerbaijan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:144
+msgid "Bahamas"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:145
+msgid "Bahrain"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:146
+msgid "Bangladesh"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:147
+msgid "Barbados"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:148
+msgid "Belarus"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:149
+msgid "Belgium"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:150
+msgid "Belize"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:151
+msgid "Benin"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:152
+msgid "Bermuda"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:153
+msgid "Bhutan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:154
+msgid "Bolivia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:155
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:156
+msgid "Botswana"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:157
+msgid "Brazil"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:158
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:159
+msgid "British Virgin Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:160
+msgid "Brunei"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:161
+msgid "Bulgaria"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:162
+msgid "Burkina Faso"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:163
+msgid "Burundi"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:164
+msgid "Cambodia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:165
+msgid "Cameroon"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:166
+msgid "Canada"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:167
+msgid "Cape Verde"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:168
+msgid "Cayman Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:169
+msgid "Central African Republic"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:170
+msgid "Chad"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:171
+msgid "Chile"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:172
+msgid "China"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:173
+msgid "Christmas Island"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:174
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:175
+msgid "Colombia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:176
+msgid "Comoros"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:177
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:178
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:179
+msgid "Cook Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:180
+msgid "Costa Rica"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:181
+msgid "Croatia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:182
+msgid "Cuba"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:183
+msgid "Cyprus"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:184
+msgid "Czech Republic"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:185
+msgid "Denmark"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:186
+msgid "Djibouti"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:187
+msgid "Dominica"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:188
+msgid "Dominican Republic"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:189
+msgid "Ecuador"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:190
+msgid "Egypt"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:191
+msgid "El Salvador"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:192
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:193
+msgid "Eritrea"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:194
+msgid "Estonia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:195
+msgid "Ethiopia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:196
+msgid "Falkland Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:197
+msgid "Faroe Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:198
+msgid "Fiji"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:199
+msgid "Finland"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:200
+msgid "France"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:201
+msgid "French Guiana"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:202
+msgid "French Polynesia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:203
+msgid "French Southern Territories"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:204
+msgid "Gabon"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:205
+msgid "Gambia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:207
+msgid "Germany"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:208
+msgid "Ghana"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:209
+msgid "Gibraltar"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:210
+msgid "Greece"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:211
+msgid "Greenland"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:212
+msgid "Grenada"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:213
+msgid "Guadeloupe"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:214
+msgid "Guatemala"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:215
+msgid "Guernsey"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:216
+msgid "Guinea"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:217
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:218
+msgid "Guyana"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:219
+msgid "Haiti"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:220
+msgid "Honduras"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:221
+msgid "Hong Kong"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:222
+msgid "Hungary"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:223
+msgid "Iceland"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:224
+msgid "India"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:225
+msgid "Indonesia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:226
+msgid "Iran"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:227
+msgid "Iraq"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:228
+msgid "Republic of Ireland"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:229
+msgid "Isle of Man"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:230
+msgid "Israel"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:231
+msgid "Italy"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:232
+msgid "Ivory Coast"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:233
+msgid "Jamaica"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:234
+msgid "Japan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:235
+msgid "Jersey"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:236
+msgid "Jordan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:237
+msgid "Kazakhstan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:238
+msgid "Kenya"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:239
+msgid "Kiribati"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:240
+msgid "Kuwait"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:241
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:242
+msgid "Laos"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:243
+msgid "Latvia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:244
+msgid "Lebanon"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:245
+msgid "Lesotho"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:246
+msgid "Liberia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:247
+msgid "Libya"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:248
+msgid "Liechtenstein"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:249
+msgid "Lithuania"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:250
+msgid "Luxembourg"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:251
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:252
+msgid "Macedonia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:253
+msgid "Madagascar"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:254
+msgid "Malawi"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:255
+msgid "Malaysia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:256
+msgid "Maldives"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:257
+msgid "Mali"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:258
+msgid "Malta"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:259
+msgid "Martinique"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:260
+msgid "Mauritania"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:261
+msgid "Mauritius"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:262
+msgid "Mayotte"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:263
+msgid "Mexico"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:264
+msgid "Moldova"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:265
+msgid "Monaco"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:266
+msgid "Mongolia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:267
+msgid "Montenegro"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:268
+msgid "Montserrat"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:269
+msgid "Morocco"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:270
+msgid "Mozambique"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:271
+msgid "Myanmar"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:272
+msgid "Namibia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:273
+msgid "Nauru"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:274
+msgid "Nepal"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:275
+msgid "Netherlands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:276
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:277
+msgid "New Caledonia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:278
+msgid "New Zealand"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:279
+msgid "Nicaragua"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:280
+msgid "Niger"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:281
+msgid "Nigeria"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:282
+msgid "Niue"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:283
+msgid "Norfolk Island"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:284
+msgid "North Korea"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:285
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:286
+msgid "Norway"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:287
+msgid "Oman"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:288
+msgid "Pakistan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:289
+msgid "Palau"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:290
+msgid "Palestinian Territory"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:291
+msgid "Panama"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:292
+msgid "Papua New Guinea"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:293
+msgid "Paraguay"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:294
+msgid "Peru"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:295
+msgid "Philippines"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:296
+msgid "Pitcairn"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:297
+msgid "Poland"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:298
+msgid "Portugal"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:299
+msgid "Qatar"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:300
+msgid "Reunion"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:301
+msgid "Romania"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:302
+msgid "Russia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:303
+msgid "Rwanda"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:304
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:305
+msgid "Saint Helena"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:306
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:307
+msgid "Saint Lucia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:308
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:309
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:310
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:311
+msgid "Samoa"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:312
+msgid "San Marino"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:313
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:314
+msgid "Saudi Arabia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:315
+msgid "Senegal"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:316
+msgid "Serbia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:317
+msgid "Seychelles"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:318
+msgid "Sierra Leone"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:319
+msgid "Singapore"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:320
+msgid "Slovakia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:321
+msgid "Slovenia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:322
+msgid "Solomon Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:323
+msgid "Somalia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:324
+msgid "South Africa"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:325
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:326
+msgid "South Korea"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:327
+msgid "Spain"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:328
+msgid "Sri Lanka"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:329
+msgid "Sudan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:330
+msgid "Suriname"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:331
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:332
+msgid "Swaziland"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:333
+msgid "Sweden"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:334
+msgid "Switzerland"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:335
+msgid "Syria"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:336
+msgid "Taiwan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:337
+msgid "Tajikistan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:338
+msgid "Tanzania"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:339
+msgid "Thailand"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:340
+msgid "Timor-Leste"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:341
+msgid "Togo"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:342
+msgid "Tokelau"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:343
+msgid "Tonga"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:344
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:345
+msgid "Tunisia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:346
+msgid "Turkey"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:347
+msgid "Turkmenistan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:348
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:349
+msgid "Tuvalu"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:350
+msgid "US Minor Outlying Islands"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:351
+msgid "Uganda"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:352
+msgid "Ukraine"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:353
+msgid "United Arab Emirates"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:354
+msgid "United Kingdom"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:355
+msgid "United States"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:356
+msgid "Uruguay"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:357
+msgid "Uzbekistan"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:358
+msgid "Vanuatu"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:359
+msgid "Vatican"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:360
+msgid "Venezuela"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:361
+msgid "Vietnam"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:362
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:363
+msgid "Western Sahara"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:364
+msgid "Yemen"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:365
+msgid "Zambia"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:366
+msgid "Zimbabwe"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:402
+msgid "January"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:403
+msgid "February"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:404
+msgid "March"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:405
+msgid "April"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:406
+msgid "May"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:407
+msgid "June"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:408
+msgid "July"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:409
+msgid "August"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:410
+msgid "September"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:411
+msgid "October"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:412
+msgid "November"
+msgstr ""
+
+#: fields/paupress-field-helpers.php:413
+msgid "December"
+msgstr ""
+
+#: fields/paupress-field-management.php:8
+msgid "that was an illegal action. no data was saved."
+msgstr ""
+
+#: fields/paupress-field-management.php:68
+msgid "There seems to be a problem."
+msgstr ""
+
+#: fields/paupress-field-management.php:202
+msgid "Fields updated!"
+msgstr ""
+
+#: fields/paupress-field-management.php:204
+msgid "There were no fields to update."
+msgstr ""
+
+#: fields/paupress-field-management.php:215 options/paupress-settings.php:111
+#: users/paupress-profile.php:14
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: fields/paupress-field-management.php:233
+msgid "Add a Field"
+msgstr ""
+
+#: fields/paupress-field-management.php:247
+msgid "Column One"
+msgstr ""
+
+#: fields/paupress-field-management.php:282
+msgid "Column Two"
+msgstr ""
+
+#: fields/paupress-field-management.php:304
+msgid "Unused fields"
+msgstr ""
+
+#: fields/paupress-field-management.php:450
+msgid "Only Admins can see this."
+msgstr ""
+
+#: fields/paupress-field-management.php:453
+msgid "This field is publicly visible."
+msgstr ""
+
+#: fields/paupress-field-management.php:456
+msgid "This field appears at signup."
+msgstr ""
+
+#: fields/paupress-field-management.php:474 fields/paupress-form.php:195
+msgid "Delete this field"
+msgstr ""
+
+#: fields/paupress-field-management.php:474
+msgid "Please remove the fields in this section first!"
+msgstr ""
+
+#: fields/paupress-field-management.php:475 fields/paupress-form.php:196
+#: options/paupress-settings.php:265
+msgid "Undo"
+msgstr ""
+
+#: fields/paupress-field-management.php:482
+msgid "Labels"
+msgstr ""
+
+#: fields/paupress-field-management.php:485
+#: fields/paupress-field-management.php:753
+msgid "Name"
+msgstr ""
+
+#: fields/paupress-field-management.php:485
+msgid "This cannot be changed."
+msgstr ""
+
+#: fields/paupress-field-management.php:489
+msgid "Label"
+msgstr ""
+
+#: fields/paupress-field-management.php:489
+msgid "Change the title of this field."
+msgstr ""
+
+#: fields/paupress-field-management.php:495
+#: fields/paupress-field-management.php:498
+msgid "Key (Required)"
+msgstr ""
+
+#: fields/paupress-field-management.php:495
+msgid ""
+"This is the unique key for this field in the database. It must be a unique "
+"name, contain only lowercase characters and no spaces -- use underscores or "
+"dashes."
+msgstr ""
+
+#: fields/paupress-field-management.php:498
+msgid ""
+"This is the unique key for this field in the database and cannot be changed."
+msgstr ""
+
+#: fields/paupress-field-management.php:505
+msgid "Tag"
+msgstr ""
+
+#: fields/paupress-field-management.php:505
+msgid "Uppercase key for syncing externally."
+msgstr ""
+
+#: fields/paupress-field-management.php:510
+msgid "Help Text"
+msgstr ""
+
+#: fields/paupress-field-management.php:510
+msgid ""
+"Text you enter here will appear alongside the field through a similar icon."
+msgstr ""
+
+#: fields/paupress-field-management.php:540
+msgid "Options"
+msgstr ""
+
+#: fields/paupress-field-management.php:541
+msgid "Control how and where this field will behave and appear."
+msgstr ""
+
+#: fields/paupress-field-management.php:542
+msgid "Admin"
+msgstr ""
+
+#: fields/paupress-field-management.php:544
+msgid "User"
+msgstr ""
+
+#: fields/paupress-field-management.php:546
+msgid "Signup"
+msgstr ""
+
+#: fields/paupress-field-management.php:547
+msgid "Reports & Forms"
+msgstr ""
+
+#: fields/paupress-field-management.php:548 fields/paupress-field.php:303
+msgid "Required"
+msgstr ""
+
+#: fields/paupress-field-management.php:549
+#: options/paupress-actions-settings.php:73
+msgid "Public"
+msgstr ""
+
+#: fields/paupress-field-management.php:551
+msgid "Unique"
+msgstr ""
+
+#: fields/paupress-field-management.php:593
+msgid "Field Type"
+msgstr ""
+
+#: fields/paupress-field-management.php:599
+msgid "This field is restricted and cannot be modified."
+msgstr ""
+
+#: fields/paupress-field-management.php:616
+msgid "Please make a selection."
+msgstr ""
+
+#: fields/paupress-field-management.php:620
+msgid "Section"
+msgstr ""
+
+#: fields/paupress-field-management.php:621
+msgid "Text"
+msgstr ""
+
+#: fields/paupress-field-management.php:622
+msgid "Text Area"
+msgstr ""
+
+#: fields/paupress-field-management.php:623
+msgid "Single Checkbox"
+msgstr ""
+
+#: fields/paupress-field-management.php:624
+msgid "Taxonomy (checkboxes)"
+msgstr ""
+
+#: fields/paupress-field-management.php:625
+msgid "Radio Button"
+msgstr ""
+
+#: fields/paupress-field-management.php:626
+msgid "Select List"
+msgstr ""
+
+#: fields/paupress-field-management.php:627
+msgid "Multi-Text"
+msgstr ""
+
+#: fields/paupress-field-management.php:628
+#: options/paupress-system-settings.php:142
+#: posts/paupress-user-actions.php:302 users/paupress-profile.php:553
+msgid "Date"
+msgstr ""
+
+#: fields/paupress-field-management.php:638
+msgid ""
+"Data integrity may be compromised if changing the field type after you have "
+"recorded data."
+msgstr ""
+
+#: fields/paupress-field-management.php:738
+msgid "Terms"
+msgstr ""
+
+#: fields/paupress-field-management.php:739
+msgid "View, add and delete terms"
+msgstr ""
+
+#: fields/paupress-field-management.php:740
+msgid "Open editor"
+msgstr ""
+
+#: fields/paupress-field-management.php:745
+msgid "Heirarchical Options"
+msgstr ""
+
+#: fields/paupress-field-management.php:746
+msgid "Include/exclude child terms and choose sort order"
+msgstr ""
+
+#: fields/paupress-field-management.php:747
+msgid "Children"
+msgstr ""
+
+#: fields/paupress-field-management.php:751
+msgid "Sort order"
+msgstr ""
+
+#: fields/paupress-field-management.php:752
+msgid "Order Added"
+msgstr ""
+
+#: fields/paupress-field-management.php:761
+msgid "Content"
+msgstr ""
+
+#: fields/paupress-field-management.php:762
+msgid "Which post types will this also be attached to?"
+msgstr ""
+
+#: fields/paupress-field-management.php:809
+#, php-format
+msgid "Choices%1$sOptionally enter pre-selected qualities for each row.%2$s"
+msgstr ""
+
+#: fields/paupress-field-management.php:816
+#: fields/paupress-field-management.php:832
+#: fields/paupress-field-management.php:848
+msgid "key:"
+msgstr ""
+
+#: fields/paupress-field-management.php:816
+#: fields/paupress-field-management.php:832
+#: fields/paupress-field-management.php:848
+msgid "label:"
+msgstr ""
+
+#: fields/paupress-field-management.php:868
+#, php-format
+msgid "%1$s Drag other fields into the area below to group them %2$s"
+msgstr ""
+
+#: fields/paupress-field-management.php:872
+#, php-format
+msgid "%1$s Supply the name of the function you wish to call %2$s"
+msgstr ""
+
+#: fields/paupress-field-management.php:880
+#, php-format
+msgid ""
+"%1$s Please choose a key first before selecting a field type or dragging "
+"into place. %2$s"
+msgstr ""
+
+#: fields/paupress-field-management.php:882 fields/paupress-form.php:71
+#: reports/paupress-actions.php:177
+msgid "Please make a selection"
+msgstr ""
+
+#: fields/paupress-field-management.php:892
+#, php-format
+msgid "%1$s There are no choices for this field type %2$s"
+msgstr ""
+
+#: fields/paupress-field-management.php:910 fields/paupress-form.php:88
+#: fields/paupress-form.php:132 fields/paupress-form.php:148
+msgid "terribly sorry."
+msgstr ""
+
+#: fields/paupress-field-management.php:1006
+msgid "Please choose a key for this field first!"
+msgstr ""
+
+#: fields/paupress-field.php:339
+msgid "Only visible to admins."
+msgstr ""
+
+#: fields/paupress-field.php:340
+msgid "Public or Private"
+msgstr ""
+
+#: fields/paupress-field.php:486
+msgid "Append"
+msgstr ""
+
+#: fields/paupress-field.php:486
+msgid "Overwrite"
+msgstr ""
+
+#: fields/paupress-field.php:486
+msgid "Remove"
+msgstr ""
+
+#: fields/paupress-field.php:489
+msgid "Add terms"
+msgstr ""
+
+#: fields/paupress-field.php:577
+msgid "All Options"
+msgstr ""
+
+#: fields/paupress-field.php:633
+msgid "No role for this site"
+msgstr ""
+
+#: fields/paupress-field.php:635 fields/paupress-field.php:637
+msgid "&mdash; No role for this site &mdash;"
+msgstr ""
+
+#: fields/paupress-field.php:774 fields/paupress-field.php:782
+msgid "yes"
+msgstr ""
+
+#: fields/paupress-field.php:775 fields/paupress-field.php:783
+msgid "no"
+msgstr ""
+
+#: fields/paupress-field.php:781 reports/paupress-filter-form.php:334
+msgid "empty"
+msgstr ""
+
+#: fields/paupress-field.php:1094
+msgid "Value"
+msgstr ""
+
+#: fields/paupress-field.php:1168 fields/paupress-field.php:1173
+msgid "type password"
+msgstr ""
+
+#: fields/paupress-field.php:1169 fields/paupress-field.php:1174
+msgid "re-type password"
+msgstr ""
+
+#: fields/paupress-field.php:1268
+msgid "start"
+msgstr ""
+
+#: fields/paupress-field.php:1269
+msgid "end"
+msgstr ""
+
+#: fields/paupress-form.php:55
+msgid "Confirm"
+msgstr ""
+
+#: fields/paupress-form.php:72
+msgid "Choose a form to edit"
+msgstr ""
+
+#: fields/paupress-form.php:77
+msgid "Create a New Form"
+msgstr ""
+
+#: fields/paupress-form.php:78
+msgid "+ Add Form"
+msgstr ""
+
+#: fields/paupress-form.php:108
+msgid "New form failed"
+msgstr ""
+
+#: fields/paupress-form.php:113
+msgid "Duplicate form. Please try another name."
+msgstr ""
+
+#: fields/paupress-form.php:120
+msgid "New form successfully created"
+msgstr ""
+
+#: fields/paupress-form.php:166
+msgid "Delete failed"
+msgstr ""
+
+#: fields/paupress-form.php:168
+msgid "Form successfully deleted"
+msgstr ""
+
+#: fields/paupress-form.php:210
+msgid "Messages"
+msgstr ""
+
+#: fields/paupress-form.php:211
+#, php-format
+msgid "Add a %1$sgreeting%2$s or instructions to the form."
+msgstr ""
+
+#: fields/paupress-form.php:214
+#, php-format
+msgid "Add a %1$sthank you%2$s or instructions to the form."
+msgstr ""
+
+#: fields/paupress-form.php:221
+msgid "Notifications"
+msgstr ""
+
+#: fields/paupress-form.php:222
+#, php-format
+msgid ""
+"Decide which email addresses should be %1$snotified%2$s after the form is "
+"submitted. Multiple emails should be separated by commas."
+msgstr ""
+
+#: fields/paupress-form.php:228 options/paupress-settings.php:248
+msgid "Add fields"
+msgstr ""
+
+#: fields/paupress-form.php:230
+msgid "+ Add Field"
+msgstr ""
+
+#: fields/paupress-form.php:323
+msgid "Display this form"
+msgstr ""
+
+#: fields/paupress-form.php:325
+#, php-format
+msgid ""
+"Use the link, shortcode or menu options below to link to this form. You can "
+"replace %1$s with your own text."
+msgstr ""
+
+#: fields/paupress-form.php:327
+msgid ""
+"Embed Shortcode (embeds the form. make sure you have turned on form "
+"embedding on the panels tab)"
+msgstr ""
+
+#: fields/paupress-form.php:329
+msgid "Link Shortcode (generates a link)"
+msgstr ""
+
+#: fields/paupress-form.php:330
+msgid "Local Link"
+msgstr ""
+
+#: fields/paupress-form.php:333
+msgid "Direct Link"
+msgstr ""
+
+#: fields/paupress-form.php:348
+msgid "Delete this form"
+msgstr ""
+
+#: fields/paupress-form.php:349
+msgid "Delete This Form"
+msgstr ""
+
+#: fields/paupress-form.php:405
+msgid "Subject"
+msgstr ""
+
+#: fields/paupress-form.php:418
+msgid "Message"
+msgstr ""
+
+#: fields/paupress-form.php:431
+msgid "Send me a copy"
+msgstr ""
+
+#: fields/paupress-form.php:448
+msgid "Standard Fields"
+msgstr ""
+
+#: fields/paupress-form.php:462
+msgid ""
+"If you wish to remove this menu item, you must delete it from the actual "
+"menu instead of unchecking the box(es) below."
+msgstr ""
+
+#: fields/paupress-form.php:462
+msgid "Add to Menu"
+msgstr ""
+
+#: options/paupress-actions-settings.php:12
+msgid "PauPress Actions"
+msgstr ""
+
+#: options/paupress-actions-settings.php:14
+msgid ""
+"PauPress actions are, essentially, WordPress post types that users can "
+"manipulate."
+msgstr ""
+
+#: options/paupress-actions-settings.php:60
+msgid "This is a Pro feature. Visit www.paupress.com for more information! "
+msgstr ""
+
+#: options/paupress-actions-settings.php:70
+#: options/paupress-system-settings.php:144
+msgid "Type"
+msgstr ""
+
+#: options/paupress-actions-settings.php:71
+msgid "Admins"
+msgstr ""
+
+#: options/paupress-actions-settings.php:71
+msgid "Admins can view and edit this type through the user profile history tab"
+msgstr ""
+
+#: options/paupress-actions-settings.php:72 options/paupress-settings.php:30
+#: reports/paupress-reports.php:525
+msgid "Users"
+msgstr ""
+
+#: options/paupress-actions-settings.php:72
+msgid "Users can view this type through their profile history tab"
+msgstr ""
+
+#: options/paupress-actions-settings.php:73
+#, php-format
+msgid "%1$s This type is publicly visible in the user profile history tab"
+msgstr ""
+
+#: options/paupress-actions-settings.php:74
+msgid "Reports"
+msgstr ""
+
+#: options/paupress-actions-settings.php:74
+#, php-format
+msgid "%1$s Admins can search for this type in the Reports section"
+msgstr ""
+
+#: options/paupress-defaults.php:120
+msgid "Account Information"
+msgstr ""
+
+#: options/paupress-defaults.php:123
+msgid "Preferences"
+msgstr ""
+
+#: options/paupress-defaults.php:136
+msgid "Basic Information"
+msgstr ""
+
+#: options/paupress-defaults.php:139
+msgid "Contact Information"
+msgstr ""
+
+#: options/paupress-defaults.php:151 utilities/paupress-users.php:115
+#: utilities/paupress-users.php:119
+msgid "Email"
+msgstr ""
+
+#: options/paupress-defaults.php:153
+msgid "Username"
+msgstr ""
+
+#: options/paupress-defaults.php:155 options/paupress-updates.php:174
+msgid "User ID"
+msgstr ""
+
+#: options/paupress-defaults.php:157 options/paupress-updates.php:176
+msgid "Date Registered"
+msgstr ""
+
+#: options/paupress-defaults.php:159
+msgid "User Type"
+msgstr ""
+
+#: options/paupress-defaults.php:159
+msgid "person"
+msgstr ""
+
+#: options/paupress-defaults.php:159
+msgid "Person"
+msgstr ""
+
+#: options/paupress-defaults.php:159
+msgid "organization"
+msgstr ""
+
+#: options/paupress-defaults.php:159 options/paupress-defaults.php:184
+msgid "Organization"
+msgstr ""
+
+#: options/paupress-defaults.php:159
+msgid "household"
+msgstr ""
+
+#: options/paupress-defaults.php:159
+msgid "Household"
+msgstr ""
+
+#: options/paupress-defaults.php:161
+msgid "Role"
+msgstr ""
+
+#: options/paupress-defaults.php:163
+msgid "Display Name"
+msgstr ""
+
+#: options/paupress-defaults.php:165
+msgid "Password"
+msgstr ""
+
+#: options/paupress-defaults.php:176 posts/paupress-user-actions.php:289
+msgid "Title"
+msgstr ""
+
+#: options/paupress-defaults.php:178
+msgid "First Name"
+msgstr ""
+
+#: options/paupress-defaults.php:180
+msgid "Middle Name"
+msgstr ""
+
+#: options/paupress-defaults.php:182
+msgid "Last Name"
+msgstr ""
+
+#: options/paupress-defaults.php:186
+msgid "Nickname"
+msgstr ""
+
+#: options/paupress-defaults.php:188
+msgid "Biography"
+msgstr ""
+
+#: options/paupress-defaults.php:201
+msgid "Website"
+msgstr ""
+
+#: options/paupress-defaults.php:203
+msgid "Telephone"
+msgstr ""
+
+#: options/paupress-defaults.php:203 options/paupress-defaults.php:205
+#: options/paupress-defaults.php:252
+msgid "home"
+msgstr ""
+
+#: options/paupress-defaults.php:203 options/paupress-defaults.php:205
+#: options/paupress-defaults.php:252
+msgid "Home"
+msgstr ""
+
+#: options/paupress-defaults.php:203 options/paupress-defaults.php:205
+#: options/paupress-defaults.php:252
+msgid "work"
+msgstr ""
+
+#: options/paupress-defaults.php:203 options/paupress-defaults.php:205
+#: options/paupress-defaults.php:252
+msgid "Work"
+msgstr ""
+
+#: options/paupress-defaults.php:203
+msgid "mobile"
+msgstr ""
+
+#: options/paupress-defaults.php:203
+msgid "Mobile"
+msgstr ""
+
+#: options/paupress-defaults.php:203 options/paupress-defaults.php:205
+#: options/paupress-defaults.php:252
+msgid "other"
+msgstr ""
+
+#: options/paupress-defaults.php:203 options/paupress-defaults.php:205
+#: options/paupress-defaults.php:252
+msgid "Other"
+msgstr ""
+
+#: options/paupress-defaults.php:205
+msgid "Additional Email Addresses"
+msgstr ""
+
+#: options/paupress-defaults.php:207
+msgid "AIM"
+msgstr ""
+
+#: options/paupress-defaults.php:209
+msgid "Yahoo IM"
+msgstr ""
+
+#: options/paupress-defaults.php:211
+msgid "Jabber / Google Talk"
+msgstr ""
+
+#: options/paupress-defaults.php:214
+msgid "Address One"
+msgstr ""
+
+#: options/paupress-defaults.php:214 options/paupress-defaults.php:216
+#: options/paupress-defaults.php:218
+msgid "Click to expand"
+msgstr ""
+
+#: options/paupress-defaults.php:216
+msgid "Address Two"
+msgstr ""
+
+#: options/paupress-defaults.php:218
+msgid "Address Three"
+msgstr ""
+
+#: options/paupress-defaults.php:230
+msgid "Show Admin Bar: when viewing the site"
+msgstr ""
+
+#: options/paupress-defaults.php:233
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: options/paupress-defaults.php:236
+msgid "Subscribe to email updates"
+msgstr ""
+
+#: options/paupress-defaults.php:239
+msgid "Allow others to contact me"
+msgstr ""
+
+#: options/paupress-defaults.php:252
+msgid "Address Location"
+msgstr ""
+
+#: options/paupress-defaults.php:254 options/paupress-updates.php:38
+msgid "Address Recipient"
+msgstr ""
+
+#: options/paupress-defaults.php:254 options/paupress-updates.php:38
+msgid "The person receiving deliveries at this address."
+msgstr ""
+
+#: options/paupress-defaults.php:256 options/paupress-updates.php:40
+msgid "Address Organization"
+msgstr ""
+
+#: options/paupress-defaults.php:256 options/paupress-updates.php:40
+msgid "The company or organization at this address."
+msgstr ""
+
+#: options/paupress-defaults.php:258
+msgid "Address Line One"
+msgstr ""
+
+#: options/paupress-defaults.php:258
+msgid "Typically, this is a street address"
+msgstr ""
+
+#: options/paupress-defaults.php:260
+msgid "Address Line Two"
+msgstr ""
+
+#: options/paupress-defaults.php:260
+msgid "Typically, this is a unit, suite or apartment"
+msgstr ""
+
+#: options/paupress-defaults.php:262
+msgid "Address Line Three"
+msgstr ""
+
+#: options/paupress-defaults.php:262
+msgid "Typically, this is the title of a business or in-care-of notation"
+msgstr ""
+
+#: options/paupress-defaults.php:264
+msgid "City"
+msgstr ""
+
+#: options/paupress-defaults.php:266
+msgid "State or Province"
+msgstr ""
+
+#: options/paupress-defaults.php:268
+msgid "Country"
+msgstr ""
+
+#: options/paupress-defaults.php:270
+msgid "Postal Code"
+msgstr ""
+
+#: options/paupress-defaults.php:272
+msgid "Latitude"
+msgstr ""
+
+#: options/paupress-defaults.php:274
+msgid "Longitude"
+msgstr ""
+
+#: options/paupress-defaults.php:295
+msgid "Public Option"
+msgstr ""
+
+#: options/paupress-defaults.php:295
+msgid "Use this to toggle the public status of all available fields."
+msgstr ""
+
+#: options/paupress-defaults.php:322 posts/paupress-user-actions-meta.php:401
+msgid "Contact Form"
+msgstr ""
+
+#: options/paupress-forms-settings.php:10
+msgid "General Forms"
+msgstr ""
+
+#: options/paupress-forms-settings.php:12
+msgid ""
+"Forms allow you to receive information from your site visitors. You can "
+"arrange and place selected user fields for data collection in addition to "
+"standard fields like \"subject\", \"message\" and the option for a visitor "
+"to copy themselves on the messsage. All incoming responses are sent to you "
+"and then logged."
+msgstr ""
+
+#: options/paupress-forms-settings.php:24
+msgid "Create and Edit Forms"
+msgstr ""
+
+#: options/paupress-general-settings.php:18
+msgid "hi there. we're really glad you're here."
+msgstr ""
+
+#: options/paupress-general-settings.php:19
+msgid ""
+"We hope this plugin makes what you do in life a little better. To that end, "
+"here's a few helpful resources."
+msgstr ""
+
+#: options/paupress-general-settings.php:22
+msgid "Setup"
+msgstr ""
+
+#: options/paupress-general-settings.php:24
+#, php-format
+msgid ""
+"%1$sManage Fields%2$s: Set the fields and permissions to start collecting "
+"data."
+msgstr ""
+
+#: options/paupress-general-settings.php:25
+#, php-format
+msgid "%1$sCheck Your Profile%2$s: Make sure you have it the way you want it."
+msgstr ""
+
+#: options/paupress-general-settings.php:26
+#, php-format
+msgid "%1$sTry a Search%2$s: Data mining is a surprising amount of fun."
+msgstr ""
+
+#: options/paupress-general-settings.php:27
+#, php-format
+msgid ""
+"%1$sTweak Your Options%2$s: Visit the tabs above to customize paupress for "
+"you."
+msgstr ""
+
+#: options/paupress-general-settings.php:29
+#, php-format
+msgid ""
+"Lastly, there's a %1$sGetting Started Guide%2$s on our website that walks "
+"you through the above steps."
+msgstr ""
+
+#: options/paupress-general-settings.php:34
+msgid "Help"
+msgstr ""
+
+#: options/paupress-general-settings.php:36
+#, php-format
+msgid ""
+"%1$sRight Now%2$s: Most of the help you will need can be found in the in "
+"handy %3$s\"help\" tabs%4$s at the top right of your screen."
+msgstr ""
+
+#: options/paupress-general-settings.php:37
+#, php-format
+msgid ""
+"%1$sPro Online%2$s: If you need more help than the help tabs offer, please "
+"make sure to visit our site %3$spaupress.com%4$s. Pro users have the added "
+"ability to post a new support request which is our first priority."
+msgstr ""
+
+#: options/paupress-general-settings.php:38
+#, php-format
+msgid ""
+"%1$sStandard Online%2$s: If you are not a pro subscriber, you can still "
+"visit our site %3$spaupress.com%4$s OR our plugin page support forums. While "
+"we do give preference to pro users of the application (see above) we are "
+"actively monitoring the plugin page forums."
+msgstr ""
+
+#: options/paupress-general-settings.php:43
+msgid "Suggestions"
+msgstr ""
+
+#: options/paupress-general-settings.php:45
+#, php-format
+msgid ""
+"%1$sContact Us%2$s: We want to hear from you! Please make sure to visit our "
+"site %3$spaupress.com%4$s or our plugin page support forums to let us know "
+"what you think of the application."
+msgstr ""
+
+#: options/paupress-general-settings.php:51
+msgid "looking for more? go pro!"
+msgstr ""
+
+#: options/paupress-general-settings.php:52
+#, php-format
+msgid "There's a lot more %1$sgreat stuff you can do with PauPress%2$s."
+msgstr ""
+
+#: options/paupress-general-settings.php:54
+msgid "Just a few reasons"
+msgstr ""
+
+#: options/paupress-general-settings.php:56
+#, php-format
+msgid ""
+"%1$sGuaranteed Support%2$s: We do try our best to provide support for all "
+"users but as a Pro user it's part of the package."
+msgstr ""
+
+#: options/paupress-general-settings.php:57
+#, php-format
+msgid ""
+"%1$sSearch User History & Actions%2$s: Go beyond the profile information and "
+"really dig deep."
+msgstr ""
+
+#: options/paupress-general-settings.php:58
+#, php-format
+msgid ""
+"%1$sImport Users & Bulk Editing%2$s: Use it once and the application pays "
+"for itself in time saved alone."
+msgstr ""
+
+#: options/paupress-general-settings.php:59
+#, php-format
+msgid ""
+"%1$sSaved Searches%2$s: One-click searching for things you look for the most "
+"-- plus, you can apply the results elsewhere in the application."
+msgstr ""
+
+#: options/paupress-general-settings.php:60
+#, php-format
+msgid ""
+"%1$sGoogle Geolocation%2$s: See all of your users or a segment on a map."
+msgstr ""
+
+#: options/paupress-general-settings.php:61
+#, php-format
+msgid ""
+"%1$sFront-end Registration, Login and Account Management%2$s: Take over the "
+"default WordPress registration and login and optionally keep all user "
+"management on the front end of your site."
+msgstr ""
+
+#: options/paupress-general-settings.php:62
+#, php-format
+msgid ""
+"%1$sRestrict Access to Content (Membership Feature)%2$s: Choose exactly who "
+"gets access to what using rules you specify. Change them at any time."
+msgstr ""
+
+#: options/paupress-general-settings.php:63
+#, php-format
+msgid ""
+"%1$sDisplay and search a member directory (Member Directory Feature)%2$s: "
+"Display all or a subset of your members. Have as many directories as you "
+"like."
+msgstr ""
+
+#: options/paupress-general-settings.php:64
+#, php-format
+msgid ""
+"%1$sAccept User-Generated Content (Community Feature)%2$s: Accept content "
+"for any post type from whomever you choose -- you set the rules and, again, "
+"change them at anytime."
+msgstr ""
+
+#: options/paupress-general-settings.php:65
+#, php-format
+msgid ""
+"%1$sE-Commerce Engine%2$s: Sell anything anywhere on your site or accept "
+"donations. Search for it all using the User Search Engine. And, of course, "
+"you can Bulk Edit, Import or Export transactions."
+msgstr ""
+
+#: options/paupress-general-settings.php:66
+#, php-format
+msgid ""
+"%1$sE-Mail Marketing Engine & MailChimp Synchronization%2$s: Send HTML "
+"newsletters using WordPress or MailChimp and if you're using MailChimp, "
+"enjoy full end-to-end synchronization for complete freedom to use whichever "
+"system you like, whenever you like."
+msgstr ""
+
+#: options/paupress-general-settings.php:67
+#, php-format
+msgid ""
+"%1$sFind out more%2$s and explore our growing library of extensions. If you "
+"don't see exactly what you need, drop us a line -- we're always open to "
+"ideas we're growing fast."
+msgstr ""
+
+#: options/paupress-panel-settings.php:10
+msgid "Embed Options"
+msgstr ""
+
+#: options/paupress-panel-settings.php:12
+msgid ""
+"If you would rather have your forms processed on the page, this is for you"
+msgstr ""
+
+#: options/paupress-panel-settings.php:24
+msgid "Embed panels on page"
+msgstr ""
+
+#: options/paupress-panel-settings.php:37
+msgid "Default minimum height(px) for the forms"
+msgstr ""
+
+#: options/paupress-pro-settings.php:10
+msgid "PauPro License Information"
+msgstr ""
+
+#: options/paupress-pro-settings.php:12
+msgid ""
+"Please enter your license details below to enable automatic updates. Please "
+"note that you have to download and install the Pro version before you are "
+"able to take advantage of the Pro features."
+msgstr ""
+
+#: options/paupress-pro-settings.php:24
+msgid "Your license key"
+msgstr ""
+
+#: options/paupress-settings.php:20
+msgid "General"
+msgstr ""
+
+#: options/paupress-settings.php:25
+msgid "Pro"
+msgstr ""
+
+#: options/paupress-settings.php:35 reports/paupress-actions.php:10
+#: reports/paupress-reports.php:297 reports/paupress-reports.php:487
+#: reports/paupress-reports.php:489
+msgid "Actions"
+msgstr ""
+
+#: options/paupress-settings.php:40
+msgid "System"
+msgstr ""
+
+#: options/paupress-settings.php:45
+msgid "Forms"
+msgstr ""
+
+#: options/paupress-settings.php:50
+msgid "Panels"
+msgstr ""
+
+#: options/paupress-settings.php:55
+msgid "PauPress Options"
+msgstr ""
+
+#: options/paupress-settings.php:116
+msgid "Settings Updated"
+msgstr ""
+
+#: options/paupress-settings.php:188
+msgid "Save Your Options"
+msgstr ""
+
+#: options/paupress-settings.php:264
+msgid "Delete"
+msgstr ""
+
+#: options/paupress-settings.php:271
+msgid "Make A Selection"
+msgstr ""
+
+#: options/paupress-settings.php:295
+msgid "+ Add"
+msgstr ""
+
+#: options/paupress-system-settings.php:10
+msgid "Mail Defaults"
+msgstr ""
+
+#: options/paupress-system-settings.php:12
+msgid "Set the default email information for your site"
+msgstr ""
+
+#: options/paupress-system-settings.php:24
+msgid "Default email"
+msgstr ""
+
+#: options/paupress-system-settings.php:37
+msgid "Default email name"
+msgstr ""
+
+#: options/paupress-system-settings.php:50
+msgid "Field Preferences"
+msgstr ""
+
+#: options/paupress-system-settings.php:63
+msgid "Low range for date fields"
+msgstr ""
+
+#: options/paupress-system-settings.php:64
+msgid "Choose how many years the date field will go into the past"
+msgstr ""
+
+#: options/paupress-system-settings.php:77
+msgid "High range for date fields"
+msgstr ""
+
+#: options/paupress-system-settings.php:78
+msgid "Choose how many years the date field will go into the future"
+msgstr ""
+
+#: options/paupress-system-settings.php:91
+msgid "System Information"
+msgstr ""
+
+#: options/paupress-system-settings.php:105
+msgid "Error Log"
+msgstr ""
+
+#: options/paupress-system-settings.php:143
+msgid "Application"
+msgstr ""
+
+#: options/paupress-system-settings.php:143
+msgid "What component was affected?"
+msgstr ""
+
+#: options/paupress-system-settings.php:144
+msgid "Did this affect a user or an action?"
+msgstr ""
+
+#: options/paupress-system-settings.php:145
+msgid "ID"
+msgstr ""
+
+#: options/paupress-system-settings.php:145
+msgid "The ID of the affected user or action"
+msgstr ""
+
+#: options/paupress-system-settings.php:146
+msgid "Error"
+msgstr ""
+
+#: options/paupress-system-settings.php:146
+msgid "Details on the error"
+msgstr ""
+
+#: options/paupress-system-settings.php:165
+msgid "hooray! no errors here!"
+msgstr ""
+
+#: options/paupress-system-settings.php:172
+msgid "Clear Log"
+msgstr ""
+
+#: options/paupress-user-settings.php:12
+msgid "Administrator Controls"
+msgstr ""
+
+#: options/paupress-user-settings.php:26
+msgid "Grant database access to:"
+msgstr ""
+
+#: options/paupress-user-settings.php:27
+msgid "Determine who can create, edit, and delete users from your system."
+msgstr ""
+
+#: options/paupress-user-settings.php:39
+msgid "User Controls"
+msgstr ""
+
+#: options/paupress-user-settings.php:53
+msgid "Prevent Subscribers from accessing the WordPress Admin Area"
+msgstr ""
+
+#: options/paupress-user-settings.php:54
+msgid ""
+"This applies to the Subscriber role and restricts all operations to the "
+"front end of the site."
+msgstr ""
+
+#: options/paupress-user-settings.php:66
+msgid "Default display of public fields to \"on\""
+msgstr ""
+
+#: options/paupress-user-settings.php:67
+msgid ""
+"Public fields by default are hidden. If a user has not stated a preference "
+"on their profile, you can change the default to show their public fields."
+msgstr ""
+
+#: options/paupress-user-settings.php:79
+msgid "Default display of \"contact me\" to \"on\""
+msgstr ""
+
+#: options/paupress-user-settings.php:80
+msgid ""
+"Individual contact forms are disabled by default. If a user has not stated a "
+"preference on their profile, you can change the default to enable their "
+"contact form."
+msgstr ""
+
+#: options/paupress-user-settings.php:92
+msgid "Enable links to in-page profiles"
+msgstr ""
+
+#: options/paupress-user-settings.php:93
+msgid ""
+"User profiles are automatically enabled via the panel system. This option, "
+"however, is an additional resource for users to link back directly to a page "
+"on your site containing their profile and public content."
+msgstr ""
+
+#: options/paupress-user-settings.php:105
+msgid "Profile Controls"
+msgstr ""
+
+#: options/paupress-user-settings.php:119
+msgid "Set defaults for randomized usernames"
+msgstr ""
+
+#: options/paupress-user-settings.php:120
+msgid ""
+"Usernames are required by WordPress and they must be unique. You may not "
+"always get to choose them so, these defaults will stand-in."
+msgstr ""
+
+#: options/paupress-user-settings.php:132
+msgid "Alternate display of user taxonomies"
+msgstr ""
+
+#: options/paupress-user-settings.php:133
+msgid "The select list option uses an advanced type-as-you-go option."
+msgstr ""
+
+#: options/paupress-user-settings.php:161
+msgid "WordPress Compatability Mode"
+msgstr ""
+
+#: options/paupress-user-settings.php:163
+msgid "Preferences to ease the transition."
+msgstr ""
+
+#: options/paupress-user-settings.php:175
+msgid "Enable WordPress Default User View"
+msgstr ""
+
+#: options/paupress-user-settings.php:176
+msgid ""
+"By default, PauPress replaces the WordPress default list view. You can re-"
+"enable it with this option."
+msgstr ""
+
+#: options/paupress-user-settings.php:214
+#, php-format
+msgid "%1$s Enabled by default"
+msgstr ""
+
+#: options/paupress-user-settings.php:260
+#, php-format
+msgid "You may use this code %1$s for the Year or any text string as a prefix."
+msgstr ""
+
+#: posts/paupress-post-actions-meta.php:54
+#: posts/paupress-user-actions-meta.php:93
+msgid "Action Meta"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:270
+#, php-format
+msgid "Last edited by: %1$s %2$s on %3$s "
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:292
+msgid "Type of Interaction"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:305
+#: posts/paupress-user-actions-meta.php:371
+msgid "Current Status"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:332
+msgid "Note"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:333
+msgid "E-mail Conversation"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:334
+msgid "Telephone Conversation"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:335
+msgid "In-Person Conversation"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:358
+msgid "Type of log"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:398
+msgid "Admin Registration"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:399
+msgid "User Registration"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:400
+msgid "Import"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:402
+msgid "Content Submission"
+msgstr ""
+
+#: posts/paupress-user-actions-meta.php:439
+msgid "Archived"
+msgstr ""
+
+#: posts/paupress-user-actions.php:20
+msgid "Log"
+msgstr ""
+
+#: posts/paupress-user-actions.php:21
+msgid "Logs"
+msgstr ""
+
+#: posts/paupress-user-actions.php:35
+msgid "Interaction"
+msgstr ""
+
+#: posts/paupress-user-actions.php:36
+msgid "Interactions"
+msgstr ""
+
+#: posts/paupress-user-actions.php:222 posts/paupress-user-actions.php:387
+msgid "Terribly sorry."
+msgstr ""
+
+#: posts/paupress-user-actions.php:360
+msgid "Save"
+msgstr ""
+
+#: posts/paupress-user-actions.php:491
+msgid "PauPress Action"
+msgstr ""
+
+#: reports/paupress-actions.php:9
+msgid "Select an Action"
+msgstr ""
+
+#: reports/paupress-actions.php:11 reports/paupress-actions.php:49
+msgid "Export"
+msgstr ""
+
+#: reports/paupress-actions.php:36
+msgid "New Export"
+msgstr ""
+
+#: reports/paupress-actions.php:37
+msgid "What would you like to call this export?"
+msgstr ""
+
+#: reports/paupress-actions.php:40
+msgid "User Options"
+msgstr ""
+
+#: reports/paupress-actions.php:41
+msgid "Select all users for this query"
+msgstr ""
+
+#: reports/paupress-actions.php:42
+msgid "Select all possible fields"
+msgstr ""
+
+#: reports/paupress-actions.php:45
+msgid "Actions Options"
+msgstr ""
+
+#: reports/paupress-actions.php:171
+msgid "Your file"
+msgstr ""
+
+#: reports/paupress-actions.php:173
+msgid "I was not able to complete the export."
+msgstr ""
+
+#: reports/paupress-edit.php:8 reports/paupress-queries.php:8
+#, php-format
+msgid ""
+"%1$s This is a pro feature and we're really sorry we couldn't include it "
+"here. Consider upgrading - each purchase supports future development and "
+"improvement! %2$s %3$s"
+msgstr ""
+
+#: reports/paupress-filter-form.php:28
+msgid "Re-load last search"
+msgstr ""
+
+#: reports/paupress-filter-form.php:30
+msgid "Reset current search"
+msgstr ""
+
+#: reports/paupress-filter-form.php:63
+msgid "Order"
+msgstr ""
+
+#: reports/paupress-filter-form.php:63
+msgid "Descending"
+msgstr ""
+
+#: reports/paupress-filter-form.php:63
+msgid "Ascending"
+msgstr ""
+
+#: reports/paupress-filter-form.php:64
+msgid "Order by"
+msgstr ""
+
+#: reports/paupress-filter-form.php:70
+msgid "Results Per Page"
+msgstr ""
+
+#: reports/paupress-filter-form.php:75
+msgid "Match"
+msgstr ""
+
+#: reports/paupress-filter-form.php:75 users/paupress-profile.php:558
+msgid "All"
+msgstr ""
+
+#: reports/paupress-filter-form.php:75
+msgid "Any"
+msgstr ""
+
+#: reports/paupress-filter-form.php:189
+msgid "Make a selection"
+msgstr ""
+
+#: reports/paupress-filter-form.php:190
+msgid "Profile Fields"
+msgstr ""
+
+#: reports/paupress-filter-form.php:330
+msgid "is"
+msgstr ""
+
+#: reports/paupress-filter-form.php:331
+msgid "not"
+msgstr ""
+
+#: reports/paupress-filter-form.php:332
+msgid "like"
+msgstr ""
+
+#: reports/paupress-filter-form.php:333
+msgid "not like"
+msgstr ""
+
+#: reports/paupress-filter-form.php:335
+msgid "not empty"
+msgstr ""
+
+#: reports/paupress-filter-form.php:336
+msgid "any"
+msgstr ""
+
+#: reports/paupress-filter-form.php:337
+msgid "all"
+msgstr ""
+
+#: reports/paupress-filter-form.php:338
+msgid "show"
+msgstr ""
+
+#: reports/paupress-filter-form.php:358
+msgid ">="
+msgstr ""
+
+#: reports/paupress-filter-form.php:359
+msgid "<="
+msgstr ""
+
+#: reports/paupress-filter-form.php:368
+msgid "Title or Body"
+msgstr ""
+
+#: reports/paupress-filter-form.php:372
+msgid "Date Options"
+msgstr ""
+
+#: reports/paupress-filter-form.php:373
+msgid "Date Range"
+msgstr ""
+
+#: reports/paupress-filter-form.php:374
+msgid "Relative Date"
+msgstr ""
+
+#: reports/paupress-filter-form.php:382
+msgid "Time"
+msgstr ""
+
+#: reports/paupress-filter-form.php:383
+msgid "days"
+msgstr ""
+
+#: reports/paupress-filter-form.php:384
+msgid "weeks"
+msgstr ""
+
+#: reports/paupress-filter-form.php:385
+msgid "months"
+msgstr ""
+
+#: reports/paupress-filter-form.php:386
+msgid "years"
+msgstr ""
+
+#: reports/paupress-filter-form.php:389
+msgid "Frame"
+msgstr ""
+
+#: reports/paupress-filter-form.php:390
+msgid "before"
+msgstr ""
+
+#: reports/paupress-filter-form.php:391
+msgid "after"
+msgstr ""
+
+#: reports/paupress-filter-form.php:394
+msgid "When"
+msgstr ""
+
+#: reports/paupress-filter-form.php:395
+msgid "now"
+msgstr ""
+
+#: reports/paupress-filter-form.php:396
+msgid "date"
+msgstr ""
+
+#: reports/paupress-filter-form.php:501
+msgid "Primary"
+msgstr ""
+
+#: reports/paupress-reports.php:85
+msgid "of"
+msgstr ""
+
+#: reports/paupress-reports.php:111 reports/paupress-reports.php:131
+#, php-format
+msgid "Page %1$s"
+msgstr ""
+
+#: reports/paupress-reports.php:292
+msgid "Search"
+msgstr ""
+
+#: reports/paupress-reports.php:302
+msgid "Edits"
+msgstr ""
+
+#: reports/paupress-reports.php:307
+msgid "Saved Searches"
+msgstr ""
+
+#: reports/paupress-reports.php:556
+msgid "terribly sorry. i did not find anything."
+msgstr ""
+
+#: reports/paupress-reports.php:698
+msgid "edit"
+msgstr ""
+
+#: reports/paupress-reports.php:699
+msgid "email"
+msgstr ""
+
+#: reports/paupress-reports.php:701
+msgid "view"
+msgstr ""
+
+#: theme/paupanels.php:88
+#, php-format
+msgid "%1$s indicates a required field %2$s"
+msgstr ""
+
+#: theme/paupanels.php:260
+msgid ""
+"very sorry. there seems to be an error. please refresh the page and try "
+"again."
+msgstr ""
+
+#: theme/paupanels.php:348
+msgid "Submission"
+msgstr ""
+
+#: theme/paupanels.php:427
+#, php-format
+msgid "The following came to you from the website: %1$s"
+msgstr ""
+
+#: theme/paupanels.php:429
+#, php-format
+msgid "It was sent from: %1$s <%2$s>"
+msgstr ""
+
+#: theme/paupanels.php:452
+#, php-format
+msgid ""
+"You asked to be copied on the message below that you sent via the website: "
+"%1$s"
+msgstr ""
+
+#: theme/paupanels.php:463
+msgid "Thank you."
+msgstr ""
+
+#: theme/paupanels.php:604
+msgid "Submit"
+msgstr ""
+
+#: theme/paupanels.php:716
+msgid "recover password"
+msgstr ""
+
+#: theme/paupanels.php:728
+msgid "Contact"
+msgstr ""
+
+#: theme/paupanels.php:733
+msgid "try again"
+msgstr ""
+
+#: theme/paupanels.php:738
+msgid "close panel"
+msgstr ""
+
+#: theme/paupanels.php:765
+msgid " or "
+msgstr ""
+
+#: users/paupress-profile.php:40
+msgid "User created!"
+msgstr ""
+
+#: users/paupress-profile.php:69
+msgid "Add Them!"
+msgstr ""
+
+#: users/paupress-profile.php:91 users/paupress-profile.php:176
+msgid "You do not have permission to edit this user."
+msgstr ""
+
+#: users/paupress-profile.php:112
+msgid "Profile Updated."
+msgstr ""
+
+#: users/paupress-profile.php:130
+msgid "History updated."
+msgstr ""
+
+#: users/paupress-profile.php:170 users/paupress-profile.php:172
+msgid "Invalid user ID."
+msgstr ""
+
+#: users/paupress-profile.php:209
+msgid "Profile"
+msgstr ""
+
+#: users/paupress-profile.php:214
+msgid "History"
+msgstr ""
+
+#: users/paupress-profile.php:256
+msgid "Update!"
+msgstr ""
+
+#: users/paupress-profile.php:555
+msgid "Title &amp; Excerpt"
+msgstr ""
+
+#: users/paupress-profile.php:614
+msgid "Edit Actions"
+msgstr ""
+
+#: users/paupress-profile.php:616
+msgid "Create or Edit Actions"
+msgstr ""
+
+#: users/paupress-profile.php:767
+msgid "Edit"
+msgstr ""
+
+#: users/paupress-users.php:720
+msgid "primary"
+msgstr ""
+
+#: utilities/paupress-users.php:119
+msgid "username"
+msgstr ""

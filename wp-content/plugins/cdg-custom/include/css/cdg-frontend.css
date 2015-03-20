@@ -1,0 +1,52 @@
+#countdown {
+	display: block;
+	height: 65px;
+	background: rgba(0,0,0,.89);
+	color: #DA4549;
+	font-weight: bold;
+	font-size: 19px;
+	line-height: 27px;
+	text-shadow: 0px 0px 1px #fff;
+	border-bottom: 2px solid #000;
+	border-top: none !important;
+	border-right: none !important;
+	border-left: none !important;
+	padding-top: 2px;
+}
+#countdown > .countdown-row {
+
+}
+#countdown > .countdown-row > span {
+	margin-top: 2px;
+}
+#countdown-message {
+	display: block;
+	background: rgba(0,0,0,0.89);
+	color: #da4549;
+	font-weight: bold;
+	font-size: 15px;
+	line-height: 27px;
+	text-shadow: 0px 0px 1px #fff;
+	padding-top: 2px;
+	line-height: 56px;
+	text-align: center;
+	position: relative;
+	top: -1px;
+}
+#header-message {
+	display: block;
+	background: #fff;
+	border-bottom: 1px dotted #DA4453;
+}
+#header-message > p {
+	text-align: center;
+	font-size: 17px;
+	color: #DA4453;
+}
+#header-message a {
+	color: #41aac7 !important;
+	text-decoration: underline !important;
+}
+#header-message a:hover {
+	color: #DADADA !important;
+}

@@ -1,0 +1,304 @@
+/* -------------------------------------------------------------- 
+   
+   grid.css
+   * Sets up an easy-to-use grid of 24 columns.
+      
+-------------------------------------------------------------- */
+
+/* A container should group all your columns. */
+#paupress .container, 
+#paupanels-wrapper .container, 
+.paupress .container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/*	------------------------------------------------------- 
+	FIXED PERCENTAGE RESPONSIVE GRID FOR PANELS AND CART
+	------------------------------------------------------- */
+
+#paupress .column, #paupress div.span-1, #paupress div.span-2, #paupress div.span-3, #paupress div.span-4, #paupress div.span-5, #paupress div.span-6, #paupress div.span-7, #paupress div.span-8, #paupress div.span-9, #paupress div.span-10, #paupress div.span-11, #paupress div.span-12, #paupress div.span-13, #paupress div.span-14, #paupress div.span-15, #paupress div.span-16, #paupress div.span-17, #paupress div.span-18, #paupress div.span-19, #paupress div.span-20, #paupress div.span-21, #paupress div.span-22, #paupress div.span-23, #paupress div.span-24 {
+  float: left;
+  margin: 0 .166666666% 0 0; 
+}
+
+#paupress .span-1 {width:4%;}
+#paupress .span-2 {width:8%;}
+#paupress .span-3 {width:12%;}
+#paupress .span-4 {width:16%;}
+#paupress .span-5 {width:20%;}
+#paupress .span-6 {width:24%;}
+#paupress .span-7 {width:28%;}
+#paupress .span-8 {width:32%;}
+#paupress .span-9 {width:36%;}
+#paupress .span-10 {width:40%;}
+#paupress .span-11 {width:44%;}
+#paupress .span-12 {width:48%;}
+#paupress .span-13 {width:52%;}
+#paupress .span-14 {width:56%;}
+#paupress .span-15 {width:60%;}
+#paupress .span-16 {width:64%;}
+#paupress .span-17 {width:68%;}
+#paupress .span-18 {width:72%;}
+#paupress .span-19 {width:76%;}
+#paupress .span-20 {width:80%;}
+#paupress .span-21 {width:84%;}
+#paupress .span-22 {width:88%;}
+#paupress .span-23 {width:92%;}
+#paupress .span-24, #paupress div.span-24 {width:100%;margin:0;}
+
+#paupress .append-1  { padding-right: 4%; }
+#paupress .append-2  { padding-right: 8%; }
+#paupress .append-3  { padding-right: 12%; }
+#paupress .append-4  { padding-right: 16%; }
+#paupress .append-5  { padding-right: 20%; }
+#paupress .append-6  { padding-right: 24%; }
+#paupress .append-7  { padding-right: 28%; }
+#paupress .append-8  { padding-right: 32%; }
+#paupress .append-9  { padding-right: 36%; }
+#paupress .append-10 { padding-right: 40%; }
+#paupress .append-11 { padding-right: 44%; }
+#paupress .append-12 { padding-right: 48%; }
+#paupress .append-13 { padding-right: 52%; }
+#paupress .append-14 { padding-right: 56%; }
+#paupress .append-15 { padding-right: 60%; }
+#paupress .append-16 { padding-right: 64%; }
+#paupress .append-17 { padding-right: 68%; }
+#paupress .append-18 { padding-right: 72%; }
+#paupress .append-19 { padding-right: 76%; }
+#paupress .append-20 { padding-right: 80%; }
+#paupress .append-21 { padding-right: 84%; }
+#paupress .append-22 { padding-right: 88%; }
+#paupress .append-23 { padding-right: 92%; } 
+
+#paupress .prepend-1  { padding-left: 4%; }  
+#paupress .prepend-2  { padding-left: 8%; } 
+#paupress .prepend-3  { padding-left: 12%; } 
+#paupress .prepend-4  { padding-left: 16%; } 
+#paupress .prepend-5  { padding-left: 20%; } 
+#paupress .prepend-6  { padding-left: 24%; } 
+#paupress .prepend-7  { padding-left: 28%; } 
+#paupress .prepend-8  { padding-left: 32%; } 
+#paupress .prepend-9  { padding-left: 36%; } 
+#paupress .prepend-10 { padding-left: 40%; } 
+#paupress .prepend-11 { padding-left: 44%; } 
+#paupress .prepend-12 { padding-left: 48%; } 
+#paupress .prepend-13 { padding-left: 52%; } 
+#paupress .prepend-14 { padding-left: 56%; } 
+#paupress .prepend-15 { padding-left: 60%; } 
+#paupress .prepend-16 { padding-left: 64%; } 
+#paupress .prepend-17 { padding-left: 68%; } 
+#paupress .prepend-18 { padding-left: 72%; } 
+#paupress .prepend-19 { padding-left: 76%; } 
+#paupress .prepend-20 { padding-left: 80%; } 
+#paupress .prepend-21 { padding-left: 84%; } 
+#paupress .prepend-22 { padding-left: 88%; } 
+#paupress .prepend-23 { padding-left: 92%; } 
+
+
+/*	------------------------------------------------------- 
+	FLUID RESPONSIVE GRID FOR ALL PURPOSE USE
+	------------------------------------------------------- */
+
+.paupress .column, .paupress .span-1, .paupress .span-2, .paupress .span-3, .paupress .span-4, .paupress .span-5, .paupress .span-6, .paupress .span-7, .paupress .span-8, .paupress .span-9, .paupress .span-10, .paupress .span-11, .paupress .span-12, .paupress .span-13, .paupress .span-14, .paupress .span-15, .paupress .span-16, .paupress .span-17, .paupress .span-18, .paupress .span-19, .paupress .span-20, .paupress .span-21, .paupress .span-22, .paupress .span-23, .paupress .span-24 {
+	float: left;
+	margin: 0;
+	width: 100%; 
+}
+
+@media screen and (min-width: 950px) {
+
+.paupress .column, .paupress .span-1, .paupress .span-2, .paupress .span-3, .paupress .span-4, .paupress .span-5, .paupress .span-6, .paupress .span-7, .paupress .span-8, .paupress .span-9, .paupress .span-10, .paupress .span-11, .paupress .span-12, .paupress .span-13, .paupress .span-14, .paupress .span-15, .paupress .span-16, .paupress .span-17, .paupress .span-18, .paupress .span-19, .paupress .span-20, .paupress .span-21, .paupress .span-22, .paupress .span-23, .paupress .span-24 {
+	margin: 0 .166666666% 0 0;
+}
+
+.paupress .span-1 {width:4%;}
+.paupress .span-2 {width:8%;}
+.paupress .span-3 {width:12%;}
+.paupress .span-4 {width:16%;}
+.paupress .span-5 {width:20%;}
+.paupress .span-6 {width:24%;}
+.paupress .span-7 {width:28%;}
+.paupress .span-8 {width:32%;}
+.paupress .span-9 {width:36%;}
+.paupress .span-10 {width:40%;}
+.paupress .span-11 {width:44%;}
+.paupress .span-12 {width:48%;}
+.paupress .span-13 {width:52%;}
+.paupress .span-14 {width:56%;}
+.paupress .span-15 {width:60%;}
+.paupress .span-16 {width:64%;}
+.paupress .span-17 {width:68%;}
+.paupress .span-18 {width:72%;}
+.paupress .span-19 {width:76%;}
+.paupress .span-20 {width:80%;}
+.paupress .span-21 {width:84%;}
+.paupress .span-22 {width:88%;}
+.paupress .span-23 {width:92%;}
+.paupress .span-24, .paupress .span-24 {width:100%;margin:0;}
+/*
+	.paupress .span-1  {width:30px;}
+	.paupress .span-2  {width:70px;}
+	.paupress .span-3  {width:110px;}
+	.paupress .span-4  {width:150px;}
+	.paupress .span-5  {width:190px;}
+	.paupress .span-6  {width:230px;}
+	.paupress .span-7  {width:270px;}
+	.paupress .span-8  {width:310px;}
+	.paupress .span-9  {width:350px;}
+	.paupress .span-10 {width:390px;}
+	.paupress .span-11 {width:430px;}
+	.paupress .span-12 {width:470px;}
+	.paupress .span-13 {width:510px;}
+	.paupress .span-14 {width:550px;}
+	.paupress .span-15 {width:590px;}
+	.paupress .span-16 {width:630px;}
+	.paupress .span-17 {width:670px;}
+	.paupress .span-18 {width:710px;}
+	.paupress .span-19 {width:750px;}
+	.paupress .span-20 {width:790px;}
+	.paupress .span-21 {width:830px;}
+	.paupress .span-22 {width:870px;}
+	.paupress .span-23 {width:910px;}
+	.paupress .span-24, .paupress .span-24 {width:950px;margin:0;}
+*/
+/*	
+	.paupress .append-1 {padding-right:40px;}
+	.paupress .append-2 {padding-right:80px;}
+	.paupress .append-3 {padding-right:120px;}
+	.paupress .append-4 {padding-right:160px;}
+	.paupress .append-5 {padding-right:200px;}
+	.paupress .append-6 {padding-right:240px;}
+	.paupress .append-7 {padding-right:280px;}
+	.paupress .append-8 {padding-right:320px;}
+	.paupress .append-9 {padding-right:360px;}
+	.paupress .append-10 {padding-right:400px;}
+	.paupress .append-11 {padding-right:440px;}
+	.paupress .append-12 {padding-right:480px;}
+	.paupress .append-13 {padding-right:520px;}
+	.paupress .append-14 {padding-right:560px;}
+	.paupress .append-15 {padding-right:600px;}
+	.paupress .append-16 {padding-right:640px;}
+	.paupress .append-17 {padding-right:680px;}
+	.paupress .append-18 {padding-right:720px;}
+	.paupress .append-19 {padding-right:760px;}
+	.paupress .append-20 {padding-right:800px;}
+	.paupress .append-21 {padding-right:840px;}
+	.paupress .append-22 {padding-right:880px;}
+	.paupress .append-23 {padding-right:920px;}
+	
+	.paupress .prepend-1 {padding-left:40px;}
+	.paupress .prepend-2 {padding-left:80px;}
+	.paupress .prepend-3 {padding-left:120px;}
+	.paupress .prepend-4 {padding-left:160px;}
+	.paupress .prepend-5 {padding-left:200px;}
+	.paupress .prepend-6 {padding-left:240px;}
+	.paupress .prepend-7 {padding-left:280px;}
+	.paupress .prepend-8 {padding-left:320px;}
+	.paupress .prepend-9 {padding-left:360px;}
+	.paupress .prepend-10 {padding-left:400px;}
+	.paupress .prepend-11 {padding-left:440px;}
+	.paupress .prepend-12 {padding-left:480px;}
+	.paupress .prepend-13 {padding-left:520px;}
+	.paupress .prepend-14 {padding-left:560px;}
+	.paupress .prepend-15 {padding-left:600px;}
+	.paupress .prepend-16 {padding-left:640px;}
+	.paupress .prepend-17 {padding-left:680px;}
+	.paupress .prepend-18 {padding-left:720px;}
+	.paupress .prepend-19 {padding-left:760px;}
+	.paupress .prepend-20 {padding-left:800px;}
+	.paupress .prepend-21 {padding-left:840px;}
+	.paupress .prepend-22 {padding-left:880px;}
+	.paupress .prepend-23 {padding-left:920px;}
+*/
+}
+
+/*	------------------------------------------------------- 
+	SHARED RESPONIVE REQUISITES
+	------------------------------------------------------- */
+
+/* The last column in a row needs this class. */
+#paupress .last, 
+#paupress div.last,
+.paupress .last, 
+.paupress div.last { margin-right: 0; }
+
+/* Border on right hand side of a column. */
+#paupress div.border, .paupress div.border {
+  padding-right: 4px;
+  margin-right: 5px;
+  border-right: 1px solid #eee;
+}
+
+/* Border with more whitespace, spans one column. */
+#paupress div.colborder, .paupress div.colborder {
+  padding-right: 24px;
+  margin-right: 25px;
+  border-right: 1px solid #eee;
+}
+
+/*	------------------------------------------------------- 
+	SHARED RESPONIVE REQUISITES
+	------------------------------------------------------- */
+
+/* In case you need to add a gutter above/below an element */
+#paupress .prepend-top, .paupress .prepend-top { 
+	margin-top: 1.5em; 
+}
+#paupress .append-bottom, .paupress .append-bottom { 
+	margin-bottom: 1.5em; 
+}
+
+/* Use a .box to create a padded box inside a column.  */ 
+#paupress .box, .paupress .box { 
+  padding: 1.5em; 
+  margin-bottom: 1.5em; 
+  background: #E5ECF9; 
+}
+
+/* Use this to create a horizontal ruler across a column. */
+#paupress hr, 
+.paupress hr {
+  background: #ddd; 
+  color: #ddd;
+  clear: both; 
+  float: none; 
+  width: 100%; 
+  height: .1em;
+  margin: 0 0 1.45em;
+  border: none; 
+}
+#paupress hr.space, 
+.paupress hr.space {
+  background: #fff;
+  color: #fff;
+}
+
+
+/* Clearing floats without extra markup
+   Based on How To Clear Floats Without Structural Markup by PiE
+   [http://www.positioniseverything.net/easyclearing.html] */
+
+#paupress .clearfix:after, 
+.paupress .clearfix:after, 
+#paupress .container:after, 
+.paupress .container:after {
+    content: "\0020"; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden; 
+    overflow:hidden; 
+}
+#paupress .clearfix, 
+.paupress .clearfix, 
+#paupress .container, 
+.paupress .container {
+	display: block;
+	background-color: transparent !important;
+}
+
+/* Regular clearing
+   apply to column that should drop below previous ones. */
+
+#paupress .clear, .paupress .clear { clear:both; }

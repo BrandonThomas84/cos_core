@@ -1,0 +1,117 @@
+
+#side-follow {
+	width: 40px;
+	padding: 2px;
+	position: fixed;
+	top: 50%;
+	right: 0;
+	z-index: 100;
+	color: #fff;
+}
+#side-follow .side-content {
+	float: right;
+	width: 0px;
+	background: #000;	
+	overflow: hidden;
+	background: rgba(23,35,34,.75);
+	border-radius: 0 0 0 5px;
+}
+#side-follow .side-tab {
+    float: left;
+    width: 40px;
+    border: 1px solid red;
+    border-right: none;
+    border-radius: 5px 0 0 5px;
+    min-height: 40px;
+    cursor: pointer;
+    background: #d94949;
+    text-align: right;
+    opacity: .8;
+}
+#side-follow .side-tab a {
+	margin-right: 10px;
+	color: #fff !important;
+	margin-top: 20%;
+	display: block;
+	font-size: 40px;
+	font-family: "Droid Sans",sans-serif;
+	text-transform: uppercase;
+	text-shadow: none;
+	line-height: 24px;
+}
+#side-follow .side-tab.vert-text {
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+    position: relative;
+    right: 40px;
+    top: 80px;
+    width: auto;
+    border-right:  1px solid red;
+    border-radius: 0 0 5px 5px;
+}
+#side-follow .side-tab.vert-text a {
+    margin: 0;
+    padding: 10px 5px 0 5px;
+    font-size: 22px;
+}
+#side-follow .side-content .side-content-inner {
+	display: none;
+	margin: 10px;
+}
+#side-follow .side-content .side-content-inner h2,
+#side-follow .side-content .side-content-inner p {
+	color: #fff !important;
+}
+#side-follow .side-content .side-content-inner p {
+    text-align: center;
+    font-size: 14px;
+    margin: 0 auto;
+    padding-bottom: 5px;
+}
+
+ul.slider-menu {
+}
+
+.std22-ss-pages .section-title {
+    font-size: 17px;
+    margin-bottom: 10px;
+    display: block;
+}
+.slider-menu li {
+    background: #000000;
+    border-radius: 0;
+    box-shadow: none;
+    margin-top: 0;
+    border: none;
+    -webkit-transition: all .4s linear;
+    -moz-transition: all .4s linear;
+    -ms-transition: all .4s linear;
+    -o-transition: all .4s linear;
+    transition: all .4s linear;
+    height: 44px;
+    text-align: center;
+    padding-bottom: 1px;
+}
+.slider-menu li a {
+    display: block;
+    height: 45px;
+    color: #fff;
+    line-height: 45px;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.slider-menu li a:hover {
+    background: #d94949;
+    color: #fff !important;
+    height: 45px;
+}
+footer .slider-menu li { 
+    background: #d94949 !important;
+}
+footer .slider-menu li a {
+    color: #fff !important;
+}

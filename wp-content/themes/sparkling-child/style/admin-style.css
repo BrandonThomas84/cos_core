@@ -1,0 +1,108 @@
+.member-container form {
+	float: left;
+	margin-right: 10px;
+}
+
+table#cos-reg-report-display {
+	width: 95%;
+	margin: 0 10px 50px 0;
+	border: 1px solid #d9d9d9;
+}
+table#cos-reg-report-display tbody tr:nth-child(odd){
+	background: #333;
+	color: #fff;
+}
+table#cos-reg-report-display thead {
+	background: #d9d9d9;
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom: 2px solid #999;
+}
+table#cos-reg-report-display thead th,
+table#cos-reg-report-display td {
+	text-align: center;
+}
+table#cos-reg-report-display p {
+	margin: 5px 2px;
+}
+
+#cos-regtable-oid {
+	width: 36px;
+}
+#cos-regtable-tid {
+	width: 70px;
+}
+#cos-regtable-rdate,
+#cos-regtable-mdate {
+	width: 50px;
+}
+#cos-regtable-recp {
+	width: 50px;
+}
+#cos-regtable-status {
+	width: 40px;
+}
+#cos-regtable-cpn {
+	width: 40px;
+}
+#cos-regtable-crt {
+	width: 100px;
+}
+#cos-regtable-person {
+	width: 100px;
+}
+
+.cos-regcol-oid {
+	width: 36px;
+}
+.cos-regcol-tid {
+	width: 120px;
+}
+.cos-regcol-rdate,
+.cos-regcol-mdate {
+	width: 50px;
+}
+.cos-regcol-recp {
+	width: 50px;
+}
+.cos-regcol-status {
+	width: 40px;
+}
+.cos-regcol-cpn {
+	width: 40px;
+}
+.cos-regcol-crt {
+	width: 100px;
+}
+.cos-regcol-person {
+	width: 100px;
+}
+table.cos-reg-item thead th {
+	border-bottom: 2px solid #efefef;
+}
+table.cos-reg-item tbody td {
+	font-size: 10px;
+}
+table.cos-reg-item .cos-reg-item-row:nth-child(odd){
+	background: #efefef !important;
+	color: #333 !important;
+}
+table.cos-reg-item .cos-reg-item-row:nth-child(even){
+	background: #d9d9d9 !important;
+	color: #333 !important;
+}
+table.cos-reg-item thead .item-name,
+table.cos-reg-item .cos-reg-item-row .item-name {
+	width: 50%;
+}
+table.cos-reg-item thead .item-price,
+table.cos-reg-item .cos-reg-item-row .item-price,
+table.cos-reg-item thead .item-qty,
+table.cos-reg-item .cos-reg-item-row .item-qty {
+	width: 25%;
+}
+
+#reg_event_display_order {
+	width: 50px;
+	margin: 10px 0 15px 20px;
+}

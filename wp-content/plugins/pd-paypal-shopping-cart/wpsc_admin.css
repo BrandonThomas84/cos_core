@@ -1,0 +1,25 @@
+/* 
+* @Author: Brandon Thomas
+* @Date:   2014-08-14 11:25:38
+* @Last Modified by:   Brandon Thomas
+* @Last Modified time: 2014-08-14 11:53:01
+*/
+#wpsc-order-notes-container {
+	width: 80%;
+	border: 2px solid #ccc;
+	padding: 10px;
+	background: #efefef;
+}
+.wpsc-order-note {
+	font-size: 11px;
+}
+.wpsc-order-note span {
+	color: #999;
+	font-size: 9px;
+	margin-right: 12px;
+}
+.wpsc-order-note span:after {
+	display: inline-block;
+	content: "- ";
+	padding-left: 10px;
+}

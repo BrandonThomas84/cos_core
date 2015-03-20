@@ -1,0 +1,900 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adblock Notify by b*web v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-11-25 22:44:33+0000\n"
+"Last-Translator: Brice Capobianco\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: adblock-notify-functions.php:441
+#: adblock-notify-functions.php:457
+#@ an-translate
+msgid "Total"
+msgstr "Total"
+
+#: adblock-notify-functions.php:442
+#: adblock-notify-functions.php:462
+#@ an-translate
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: adblock-notify-functions.php:445
+#@ an-translate
+msgid "Pages Views"
+msgstr "Pages vues"
+
+#: adblock-notify-functions.php:450
+#@ an-translate
+msgid "Pages with Adblock"
+msgstr "Pages avec Adblock"
+
+#: adblock-notify-functions.php:457
+#: adblock-notify-functions.php:462
+#@ an-translate
+msgid "Ads blocked"
+msgstr "Pubs bloquées"
+
+#: adblock-notify-functions.php:466
+#@ an-translate
+msgid "Ad Blocker software deactivated"
+msgstr "Logiciels Adblock désactivés"
+
+#: adblock-notify-functions.php:467
+#@ an-translate
+msgid "You may probably increase this number by improving your custom messages"
+msgstr "Vous pouvez très certainement augmenté ce score en améliorant votre message personnalisé"
+
+#: adblock-notify-functions.php:473
+#: adblock-notify.php:146
+#@ an-translate
+msgid "Settings"
+msgstr "Réglages"
+
+#: adblock-notify-functions.php:475
+#@ an-translate
+msgid "Are you sure you want to delete permanently your datas?"
+msgstr "Êtes vous sûr de vouloir supprimer définitivement vos données ?"
+
+#: adblock-notify-functions.php:475
+#@ an-translate
+msgid "Reset Stats"
+msgstr "Réinitialiser"
+
+#: adblock-notify-functions.php:440
+#@ an-translate
+msgid "Admins are excluded from this statistics."
+msgstr "Les administrateurs sont exclus des statistiques."
+
+#: adblock-notify-options.php:25
+#@ an-translate
+msgid "Adblock Notify Options"
+msgstr "Options de Adblock Notify"
+
+#: adblock-notify-options.php:28
+#@ an-translate
+msgid "Modal Visual Options"
+msgstr "Options de la Boite de Dialogue"
+
+#: adblock-notify-options.php:31
+#: adblock-notify-options.php:261
+#@ an-translate
+msgid "Alternative Message"
+msgstr "Message Alternatif"
+
+#: adblock-notify-options.php:43
+#@ an-translate
+msgid "Welcome to Adblock Notify Plugin"
+msgstr "Bienvenue dans l’extension Adblock Notify"
+
+#: adblock-notify-options.php:45
+#@ an-translate
+msgid "You can notify users with an activated Adblocker software by one of THREE ways !"
+msgstr "Vous pouvez notifier les utilisateurs utilisant Adblock de TROIS manières différentes !"
+
+#: adblock-notify-options.php:47
+#@ an-translate
+msgid "the COMPLIANT solution"
+msgstr "la solution PASSIVE"
+
+#: adblock-notify-options.php:48
+#@ an-translate
+msgid "the AGRESSIVE solution"
+msgstr "la solution  AGRESSIVE"
+
+#: adblock-notify-options.php:49
+#@ an-translate
+msgid "the TRANSPARENT solution"
+msgstr "la solution TRANSPARENTE"
+
+#: adblock-notify-options.php:53
+#@ an-translate
+msgid "Only one of the two first options can be activated at the same time. The third one is standalone and can be setting up independently."
+msgstr "Seulement une des deux premières options peut être activée à la fois. La troisième fonctionne seule et peut être configurée indépendamment."
+
+#: adblock-notify-options.php:55
+#@ an-translate
+msgid "You can easily switch between them without losing your options."
+msgstr "Vous pouvez facilement changer d'option sans en perdre les paramètres de configuration."
+
+#: adblock-notify-options.php:58
+#@ an-translate
+msgid "Adblock Notify"
+msgstr "Adblock Notify"
+
+#: adblock-notify-options.php:58
+#@ an-translate
+msgid "nativally uses cookies for a better user experience and a less intrusive browsing of your site. It means visitors will see the Modal Box only once or be redirected to your custom page once."
+msgstr "utilise nativement les cookies pour une meilleure expérience utilisateur et une navigation moins intrusive. Cela signifie que les visiteurs ne verront la boîte de dialogue qu'une seule fois ou ne seront redirigés vers votre page personnalisée qu'une seule fois."
+
+#: adblock-notify-options.php:60
+#@ an-translate
+msgid "You can deactivate them, however if your visitor has an activated adblocker software they will see a modal box or get a redirection on every visited page."
+msgstr "Vous pouvez les désactiver, en revanche, si vos visiteurs utilisent un bloqueur de pubs, ils verront la boîte de dialogue ou seront redirigés pour chaque page visitée."
+
+#: adblock-notify-options.php:81
+#@ an-translate
+msgid "Adblock Notify Stats widget is available on your admin dashboard (if not visible, go to the top menu and visit \"Screen Options\")."
+msgstr "Le widget de statistiques Adblock Notify est disponible sur votre tableau de bord (s'il n'est pas visible, dépliez le menu \"Options de l'écran\" en haut à droite)."
+
+#: adblock-notify-options.php:66
+#@ an-translate
+msgid "Modal Box or Redirection ?"
+msgstr "Activer la Boîte de Dialogue ou Redirection ? "
+
+#: adblock-notify-options.php:74
+#@ an-translate
+msgid "Would you like to use the Modal Box or redirect users to a custom page when adblock is detected? - Default: None"
+msgstr "Souhaitez-vous afficher la boîte de dialogue ou rediriger vos utilisateurs vers une page personnalisée si Adblock est détecté ? - Défaut : Aucun"
+
+#: adblock-notify-options.php:89
+#@ an-translate
+msgid "Cookies Options"
+msgstr "Options des cookies"
+
+#: adblock-notify-options.php:93
+#@ an-translate
+msgid "Cookies activation"
+msgstr "Activer les cookies"
+
+#: adblock-notify-options.php:96
+#@ an-translate
+msgid "Prevent Modal Box from opening or Page redirection on every visited page - Default: Yes"
+msgstr "Prévenir l'ouverture de la boîte de dialogue ou la redirection pour chaque page visitée - Défaut : Oui"
+
+#: adblock-notify-options.php:96
+#@ an-translate
+msgid "Your own cookie is automatically reset on options save to see settings changes."
+msgstr "Votre propre cookie est automatiquement supprimé pour que vous puissiez voir les changements."
+
+#: adblock-notify-options.php:83
+#: adblock-notify-options.php:98
+#: adblock-notify-options.php:155
+#: adblock-notify-options.php:198
+#@ an-translate
+msgid "Yes"
+msgstr "Oui"
+
+#: adblock-notify-options.php:84
+#: adblock-notify-options.php:99
+#: adblock-notify-options.php:199
+#: adblock-notify-options.php:315
+#@ an-translate
+msgid "No"
+msgstr "Non"
+
+#: adblock-notify-options.php:104
+#@ an-translate
+msgid "Cookies Lifetime"
+msgstr "Durée de vie des cookies"
+
+#: adblock-notify-options.php:104
+#@ an-translate
+msgid "Days"
+msgstr "Jours"
+
+#: adblock-notify-options.php:107
+#@ an-translate
+msgid "Set the lifetime of the cookie session - Default: 30 days"
+msgstr "Définit la durée de vie des cookies - Défaut : 30 jours"
+
+#: adblock-notify-options.php:114
+#@ an-translate
+msgid "Modal Box Options"
+msgstr "Options de la boîte de dialogue"
+
+#: adblock-notify-options.php:118
+#@ an-translate
+msgid "Modal Title"
+msgstr "Titre de la boîte de dialogue"
+
+#: adblock-notify-options.php:121
+#@ an-translate
+msgid "The title of the modal box"
+msgstr "Le titre de la boîte de dialogue"
+
+#: adblock-notify-options.php:122
+#@ an-translate
+msgid "Adblocker detected! Please consider reading this notice."
+msgstr "Adblock détecté ! Merci de lire ce message."
+
+#: adblock-notify-options.php:125
+#@ an-translate
+msgid "Modal Text"
+msgstr "Contenu de la boîte de dialogue"
+
+#: adblock-notify-options.php:129
+#@ an-translate
+msgid "The text of the modal box : images & shortcodes are supported."
+msgstr "Le texte de la boîte de dialogue : les images & les shortcodes sont supportés."
+
+#: adblock-notify-options.php:131
+#@ an-translate
+msgid "We've detected that you are using AdBlock Plus ore some other adblocking software which is preventing the page from fully loading."
+msgstr "Nous avons détecté que vous utilisez un bloqueur de publicités qui empêche la page de se charger dans son intégralité."
+
+#: adblock-notify-options.php:132
+#@ an-translate
+msgid "We don't have any banner, Flash, animation, obnoxious sound, or popup ad. We do not implement these annoying types of ads!"
+msgstr "Nous n'avons pas de bannière Flash, de pubs animées, de pubs audio ou de popup intrusive, nous ne souhaitons pas afficher ce genre de pubs ici."
+
+#: adblock-notify-options.php:133
+#@ an-translate
+msgid "We need money to operate the site, and almost all of it comes from our online advertising."
+msgstr "Nous avons besoin de financements pour garder notre site en vie et ils proviennent presque exclusivement de la publicité."
+
+#: adblock-notify-options.php:134
+#: adblock-notify-options.php:299
+#@ an-translate
+msgid "Please add"
+msgstr "Merci d'ajouter"
+
+#: adblock-notify-options.php:134
+#@ an-translate
+msgid "to your ad blocking whitelist or disable your adblocking software."
+msgstr "à votre liste d’exceptions dans Adblock ou de désactiver ce logiciel."
+
+#: adblock-notify-options.php:138
+#@ an-translate
+msgid "Redirection Options"
+msgstr "Options de redirection"
+
+#: adblock-notify-options.php:142
+#: adblock-notify-options.php:159
+#@ an-translate
+msgid "Target Page"
+msgstr "Page cible"
+
+#: adblock-notify-options.php:145
+#: adblock-notify-options.php:162
+#@ an-translate
+msgid "Select a page to redirect to. List your current published pages"
+msgstr "Sélectionnez une page vers laquelle les visiteurs seront redirigés. Liste les pages actuellement publiées."
+
+#: adblock-notify-options.php:148
+#@ an-translate
+msgid "No JS Redirection"
+msgstr "Redirection si Javascript est désactivé"
+
+#: adblock-notify-options.php:148
+#@ an-translate
+msgid "Warning"
+msgstr "Attention"
+
+#: adblock-notify-options.php:152
+#@ an-translate
+msgid "Redirect if no JS detected?"
+msgstr "Rediriger si le Javascript est désactivé ?"
+
+#: adblock-notify-options.php:155
+#@ an-translate
+msgid "This option used your Cookies Options"
+msgstr "Cette option utilise vos options de cookies"
+
+#: adblock-notify-options.php:155
+#@ an-translate
+msgid "Default: Unchecked"
+msgstr "Défaut : non coché"
+
+#: adblock-notify-options.php:155
+#@ an-translate
+msgid "Will redirect visitor to a custom page if Javascript is disable. It is NOT SEO friendly, use it only on private site."
+msgstr "Redirigera vos visiteurs vers une page personnalisée si Javascript est désactivé. Ce n'est pas bon du tout pour le SEO, n'utilisez cette option que sur un site privé."
+
+#: adblock-notify-options.php:167
+#@ an-translate
+msgid "Modal Box Settings"
+msgstr "Options de la Boîte de Dialogue"
+
+#: adblock-notify-options.php:171
+#@ an-translate
+msgid "Modal Box effect"
+msgstr "Effet de la boîte de dialogue"
+
+#: adblock-notify-options.php:174
+#@ an-translate
+msgid "The Modal Box animation effect - Default: Fade and Pop"
+msgstr "Animation de la boîte de dialogue - Défaut : Fondu et Déroulant"
+
+#: adblock-notify-options.php:176
+#@ an-translate
+msgid "Fade and Pop"
+msgstr "Descend en fondu"
+
+#: adblock-notify-options.php:177
+#@ an-translate
+msgid "Fade"
+msgstr "Fondu"
+
+#: adblock-notify-options.php:69
+#: adblock-notify-options.php:178
+#@ an-translate
+msgid "None"
+msgstr "Aucun"
+
+#: adblock-notify-options.php:183
+#@ an-translate
+msgid "Animation Speed"
+msgstr "Vitesse de l'animation"
+
+#: adblock-notify-options.php:183
+#@ an-translate
+msgid "Milliseconds"
+msgstr "Millisecondes"
+
+#: adblock-notify-options.php:186
+#@ an-translate
+msgid "The Modal Box animation speed. Will not be applied if modal effect is set to  None - Default: 350ms"
+msgstr "La vitesse de l'animation de la boîte de dialogue. Ne sera pas pris en compte si l'animation est désactivée. Défaut : 350ms"
+
+#: adblock-notify-options.php:193
+#@ an-translate
+msgid "Modal Close on background click"
+msgstr "Fermeture de la boîte de dialogue au clique sur l'overlay (arrière plan)"
+
+#: adblock-notify-options.php:196
+#@ an-translate
+msgid "If you click background will Modal close? - Default: Yes"
+msgstr "Si vous cliquez sur l'arrière plan, la boîte de dialogue doit-elle se fermer ? - Défaut : Oui"
+
+#: adblock-notify-options.php:204
+#@ an-translate
+msgid "Modal Box Style"
+msgstr "Style de la Boîte de Dialogue"
+
+#: adblock-notify-options.php:208
+#@ an-translate
+msgid "Overlay Color"
+msgstr "Couleur de l'overlay"
+
+#: adblock-notify-options.php:208
+#@ an-translate
+msgid "Background"
+msgstr "Arrière plan"
+
+#: adblock-notify-options.php:212
+#: adblock-notify-options.php:229
+#@ an-translate
+msgid "Default:"
+msgstr "Défaut :"
+
+#: adblock-notify-options.php:215
+#@ an-translate
+msgid "Overlay Opacity"
+msgstr "Opacité de l'overlay"
+
+#: adblock-notify-options.php:218
+#@ an-translate
+msgid "Modal Box overlay (background) opacity - Default: 80%"
+msgstr "Opacité de l'overlay (arrière plan) de la boîte de dialogue - Défaut : 80%"
+
+#: adblock-notify-options.php:225
+#@ an-translate
+msgid "Modal Box Background Color"
+msgstr "Couleur d'arrière plan de la boîte de dialogue"
+
+#: adblock-notify-options.php:232
+#@ an-translate
+msgid "Modal Box Title Color"
+msgstr "Couleur du titre de la boîte de dialogue"
+
+#: adblock-notify-options.php:235
+#@ an-translate
+msgid "Default is your theme &lt;h1&gt; color"
+msgstr "La couleur par défaut est celle de vos &lt;h1&gt;"
+
+#: adblock-notify-options.php:239
+#@ an-translate
+msgid "Modal Box Text Color"
+msgstr "Couleur du texte de la boîte de dialogue"
+
+#: adblock-notify-options.php:242
+#@ an-translate
+msgid "Default is your theme body text color"
+msgstr "La couleur par défaut dépend de celle de votre thème"
+
+#: adblock-notify-options.php:246
+#: adblock-notify-options.php:361
+#@ an-translate
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: adblock-notify-options.php:246
+#: adblock-notify-options.php:361
+#@ an-translate
+msgid "Advance users"
+msgstr "Utilisateurs avancés"
+
+#: adblock-notify-options.php:263
+#@ an-translate
+msgid "You can insert a custom message where your hidden ads would normally appear."
+msgstr "Vous pouvez insérer un message personnalisé là où vos publicités sont normalement affichées."
+
+#: adblock-notify-options.php:267
+#@ an-translate
+msgid "Note:"
+msgstr "Information :"
+
+#: adblock-notify-options.php:267
+#@ an-translate
+msgid "Some minimal HTML knowledge is required to set up this functionality."
+msgstr "Un minimum de connaissances en HTML est requis pour configurer cette fonctionnalité."
+
+#: adblock-notify-options.php:276
+#@ an-translate
+msgid "Yes - Default: Unchecked"
+msgstr "Oui - Défaut : Non coché"
+
+#: adblock-notify-options.php:276
+#@ an-translate
+msgid "If unchecked, below options will not be used"
+msgstr "Si non coché, les options ci-dessous ne seront pas prises en compte"
+
+#: adblock-notify-options.php:284
+#@ an-translate
+msgid "Advert containers"
+msgstr "Conteneurs des publicités"
+
+#: adblock-notify-options.php:284
+#: adblock-notify-options.php:352
+#@ an-translate
+msgid "Comma separated"
+msgstr "Séparés par des virgules"
+
+#: adblock-notify-options.php:287
+#@ an-translate
+msgid "The Element CLASS or ID of your ads containers. - Default: Empty"
+msgstr "La CLASS ou l'ID des éléments qui contiennent vos publicités. Défaut : Vide"
+
+#: adblock-notify-options.php:289
+#: adblock-notify-options.php:357
+#@ an-translate
+msgid "Read"
+msgstr "Lire"
+
+#: adblock-notify-options.php:289
+#@ an-translate
+msgid "Selectors | jQuery API Documentation"
+msgstr "Selectors | jQuery API Documentation"
+
+#: adblock-notify-options.php:289
+#: adblock-notify-options.php:357
+#@ an-translate
+msgid "for more details"
+msgstr "pour plus de détails"
+
+#: adblock-notify-options.php:292
+#@ an-translate
+msgid "Alternative Text"
+msgstr "Texte alternatif"
+
+#: adblock-notify-options.php:296
+#@ an-translate
+msgid "The alternative text to display when ads are hidden. Images & shortcodes are supported, but use them with caution."
+msgstr "Le texte alternatif à afficher à la place de vos publicités bloquées. Les images & shortcodes sont supportés, mais utilisez les avec prudence."
+
+#: adblock-notify-options.php:298
+#@ an-translate
+msgid "AdBlock detected!"
+msgstr "AdBlock détecté !"
+
+#: adblock-notify-options.php:299
+#@ an-translate
+msgid "to your adblocking whitelist or disable your adblocking software."
+msgstr "à votre liste d’exceptions dans Adblock ou de désactiver ce logiciel."
+
+#: adblock-notify-options.php:303
+#@ an-translate
+msgid "Optional Settings"
+msgstr "Options Secondaires"
+
+#: adblock-notify-options.php:324
+#@ an-translate
+msgid "What does \"Clone ad container\" mean?"
+msgstr "Que signifie \"Cloner le conteneur de la pub\" ?"
+
+#: adblock-notify-options.php:326
+#@ an-translate
+msgid "It means you can ask Adblock Notify Plugin to copy the CSS properties of the element that contains your ad to a new element which will not be hidden by an adblocker software. With this process, your design should not break."
+msgstr "Cela signifie que vous pouvez demander à Adblock Notify de copier les propriétés CSS de l'élément qui contient vos publicités pour les insérer dans le style d'un nouveau conteneur qui ne sera pas bloqué par adblock. Grâce à ce processus, le design de vos pages ne devrait pas être trop perturbé."
+
+#: adblock-notify-options.php:328
+#@ an-translate
+msgid "The new element will be the same type (DIV,SPAN,etc.) as its source, and will have the .an-alternative class."
+msgstr "Le nouvel élément sera du même type que l'original depuis lequel il a été cloné (DIV, SPAN, etc) et aura la CLASS .an-alternative."
+
+#: adblock-notify-options.php:331
+#@ an-translate
+msgid "Available options are:"
+msgstr "Les options disponibles sont :"
+
+#: adblock-notify-options.php:312
+#: adblock-notify-options.php:333
+#@ an-translate
+msgid "Custom Mode"
+msgstr "Mode Personnalisé"
+
+#: adblock-notify-options.php:333
+#@ an-translate
+msgid ": Will try to catch all the CSS rules defined in your theme files, and let you choose which ones to keep (see Custom Mode CSS properties)."
+msgstr " : Essaiera de récupérer toutes les propriétés CSS définies dans votre thème et vous laissera choisir lesquelles conserver (voir Propriétés CSS du Mode Personnalisé)."
+
+#: adblock-notify-options.php:313
+#: adblock-notify-options.php:334
+#@ an-translate
+msgid "Soft Mode (Recommended)"
+msgstr "Mode Soft (Recommandé)"
+
+#: adblock-notify-options.php:334
+#@ an-translate
+msgid ": Will try to catch all the CSS rules defined in your theme files, and add them to the new created element. If the browser does not support this feature, it will try Hard Mode fetching."
+msgstr ": Essaiera de récupérer toutes les propriétés CSS définies dans votre thème et les ajoutera automatiquement à son clone. Si le navigateur ne supporte pas cette fonctionnalité, il essaiera automatiquement le Mode Hard."
+
+#: adblock-notify-options.php:314
+#: adblock-notify-options.php:335
+#@ an-translate
+msgid "Hard Mode"
+msgstr "Mode Hard"
+
+#: adblock-notify-options.php:335
+#@ an-translate
+msgid ": Will try to fetch all the elements CSS rules based on browser CSS compilation (not reading directly in your CSS files). This option may add a lot of inline CSS rules to your newly created element."
+msgstr ": Essaiera de récupérer toutes les propriétés CSS compilées par le navigateur (ne lira pas les fichiers CSS). Cette option peut ajouter une grosse quantité de CSS \"inline\" au nouveau conteneur."
+
+#: adblock-notify-options.php:339
+#@ an-translate
+msgid "This feature is performed through Javascript (+jQuery) and is 95% functional on all modern browser even on IE8+. For the 5% left, the plugin will drop potential JS errors and insert .an-alternative div."
+msgstr "Cette fonctionnalité est exécutée par du Javascript (+jQuery) et est à 95% fonctionnelle sur tous les navigateurs modernes, même sur IE8+. Pour les 5% restant, le plugin est capable d'ignorer les potentielles erreur de JS et créera dans tous les cas une DIV avec la CLASS .an-alternative."
+
+#: adblock-notify-options.php:341
+#@ an-translate
+msgid "Tested and works great on Chrome, Firefox, Safari, Opera, IE8+"
+msgstr "Testé et parfaitement fonctionnel sous Chrome, Firefox, Safari, Opera, IE8+"
+
+#: adblock-notify-options.php:344
+#@ an-translate
+msgid "What's appended if I don't turn on this option?"
+msgstr "Que ce passe t'il si je n'active pas cette option ?"
+
+#: adblock-notify-options.php:346
+#@ an-translate
+msgid "The plugin will append a new \"clean\" DIV element with .an-alternative class just before the advert container. You can add your own custom rules with the Custom CSS field below."
+msgstr "Le plugin va ajouter une nouvelle DIV \"propre\" avec la CLASS .an-alternative juste avant le conteneur qui contient normalement la publicité. Vous pouvez ajouter vos propres propriétés CSS dans le champ dédié ci-dessous."
+
+#: adblock-notify-options.php:307
+#@ an-translate
+msgid "Clone ad container?"
+msgstr "Cloner le conteneur de la pub ?"
+
+#: adblock-notify-options.php:310
+#@ an-translate
+msgid "Will copy your original ad container CSS properties - Default: No"
+msgstr "Copiera les propriétés CSS du conteneur original - Défaut : Non"
+
+#: adblock-notify-options.php:310
+#@ an-translate
+msgid "This feature is not 100% reliable but could help for a quick set up."
+msgstr "Cette fonctionnalité n'est pas 100% opérationnelle, mais elle peut suffire pour une configuration rapide."
+
+#: adblock-notify-options.php:352
+#@ an-translate
+msgid "Custom Mode CSS properties"
+msgstr "Propriétés CSS du Mode Personnalisé"
+
+#: adblock-notify-options.php:355
+#@ an-translate
+msgid "The element CSS properties you want to clone - Default: Empty"
+msgstr "Les propriétés CSS de l'élément que vous souhaitez cloner - Défaut : Vide"
+
+#: adblock-notify-options.php:356
+#@ an-translate
+msgid "Eg: color, width, height, background-color, border"
+msgstr "Exemple : color, width, height, background-color, border"
+
+#: adblock-notify-options.php:357
+#@ an-translate
+msgid "CSS Reference | w3schools.com"
+msgstr "CSS Reference | w3schools.com"
+
+#: adblock-notify-options.php:364
+#@ an-translate
+msgid "Put your custom CSS rules here. The new Element class is .an-alternative"
+msgstr "Mettez vos propriétés CSS personnalisées ici. La CLASS du nouvel élément est .an-alternative"
+
+#: adblock-notify-options.php:366
+#@ an-translate
+msgid "NOTE:"
+msgstr "NOTE :"
+
+#: adblock-notify-options.php:366
+#@ an-translate
+msgid "If you've activated the ads containers cloning, you can still add custom CSS on your text."
+msgstr "Si vous avez activé le clonage des conteneurs de pubs, vous pouvez toujours ajouter votre CSS."
+
+#: adblock-notify-options.php:367
+#@ an-translate
+msgid "If you really have to overload .an-alternative with your own CSS properties, you may probably need to use !important after each of them, but this is not advised."
+msgstr "Si vous avez vraiment besoin de sur-charger le CSS de .an-alternative avec votre propre style, vous allez sans doute devoir utiliser !important après chacune d'elles, mais ça n'est pas conseillé."
+
+#: lib/titan-framework/class-admin-panel.php:297
+#@ an-translate
+msgid "Settings saved."
+msgstr "Réglages sauvegardés."
+
+#: lib/titan-framework/class-admin-panel.php:299
+#@ an-translate
+msgid "Settings reset to default."
+msgstr "Réglages réinitialisés."
+
+#: lib/titan-framework/class-meta-box.php:37
+#: lib/titan-framework/class-theme-customizer-section.php:30
+#@ an-translate
+msgid "More Options"
+msgstr "Plus d'options"
+
+#: lib/titan-framework/class-option-enable.php:21
+#: lib/titan-framework/class-option-enable.php:96
+#@ an-translate
+msgid "Enabled"
+msgstr "Activé"
+
+#: lib/titan-framework/class-option-enable.php:24
+#: lib/titan-framework/class-option-enable.php:99
+#@ an-translate
+msgid "Disabled"
+msgstr "Désactiver"
+
+#: adblock-notify-options.php:379
+#: adblock-notify-options.php:385
+#: adblock-notify-options.php:391
+#: lib/titan-framework/class-option-save.php:21
+#@ an-translate
+msgid "Save Changes"
+msgstr "Enregistrer"
+
+#: adblock-notify-options.php:380
+#: adblock-notify-options.php:386
+#: adblock-notify-options.php:392
+#: lib/titan-framework/class-option-save.php:24
+#@ an-translate
+msgid "Reset to Defaults"
+msgstr "Réinitialiser"
+
+#: lib/titan-framework/class-option-save.php:27
+#@ an-translate
+msgid "Are you sure you want to reset ALL options to their default values?"
+msgstr "Êtes-vous sûr de vouloir réinitialiser toutes les options à leurs valeurs par défaut ?"
+
+#: lib/titan-framework/class-option-select-categories.php:37
+#: lib/titan-framework/class-option-select-categories.php:104
+#: lib/titan-framework/class-option-select-pages.php:30
+#: lib/titan-framework/class-option-select-posts.php:38
+#: lib/titan-framework/class-option-select-posts.php:106
+#@ an-translate
+msgid "Select"
+msgstr "Sélectionner"
+
+#: lib/titan-framework/class-option-upload.php:202
+#@ an-translate
+msgid "Select Image"
+msgstr "Sélectionner une image"
+
+#: lib/titan-framework/class-option-upload.php:205
+#@ an-translate
+msgid "Use image"
+msgstr "Utiliser l'image"
+
+#: lib/titan-framework/class-option.php:42
+#, php-format
+#@ an-translate
+msgid "Option type or extended class %s does not exist."
+msgstr ""
+
+#: lib/titan-framework/class-titan-framework.php:96
+#, php-format
+#@ an-translate
+msgid "All option IDs must be unique. The id %s has been used multiple times."
+msgstr ""
+
+#: lib/titan-framework/class-titan-framework.php:374
+#: lib/titan-framework/class-titan-framework.php:421
+#, php-format
+#@ an-translate
+msgid "Wrong usage of %s, this should be called inside a hook or from within a theme file."
+msgstr ""
+
+#: lib/titan-framework/class-titan-tracking.php:70
+#@ an-translate
+msgid "Help us make Titan Framework better by enabling your site to periodically send us tracking data. This is so we can know where and how Titan is being used."
+msgstr ""
+
+#: lib/titan-framework/class-titan-tracking.php:71
+#@ an-translate
+msgid "Help us and track"
+msgstr ""
+
+#: lib/titan-framework/class-titan-tracking.php:72
+#@ an-translate
+msgid "Don't track"
+msgstr ""
+
+#: lib/titan-framework/titan-framework-checker.php:59
+#@ default
+msgid "Titan Framework needs to be installed."
+msgstr ""
+
+#: lib/titan-framework/titan-framework-checker.php:62
+#@ default
+msgid "Click here to search for the plugin."
+msgstr ""
+
+#: lib/titan-framework/titan-framework.php:149
+#@ an-translate
+msgid "Documentation"
+msgstr ""
+
+#: lib/titan-framework/titan-framework.php:153
+#@ an-translate
+msgid "GitHub Repo"
+msgstr ""
+
+#: lib/titan-framework/titan-framework.php:157
+#@ an-translate
+msgid "Issue Tracker"
+msgstr ""
+
+#: adblock-notify-options.php:48
+#@ an-translate
+msgid "A simple redirection to the page of your choice:"
+msgstr "Un simple redirection vers la page de votre choix :"
+
+#: adblock-notify-options.php:49
+#@ an-translate
+msgid "A custom alternative message where your hidden ads would normally appear:"
+msgstr "Un message personnalisable à la place des publicité bloquées :"
+
+#: adblock-notify-options.php:47
+#@ an-translate
+msgid "A pretty cool and lightweight Modal Box with a custom content:"
+msgstr "Une boîte de dialogue sympa et légère avec un contenu personnalisable :"
+
+#: adblock-notify-options.php:265
+#@ an-translate
+msgid "The plugin will append a new \"clean\" DIV element just before the advert container to display your custom message."
+msgstr "Le plugin va ajouter une nouvelle DIV \"propre\" juste avant le conteneur qui contient normalement la publicité pour afficher votre message personnalisé."
+
+#: adblock-notify-options.php:273
+#@ an-translate
+msgid "Activate this option?"
+msgstr "Activer cette option ?"
+
+#: adblock-notify-options.php:280
+#@ an-translate
+msgid "Required Settings"
+msgstr "Réglages nécessaires"
+
+#. translators: plugin header field 'Name'
+#: adblock-notify.php:0
+#@ an-translate
+msgid "Adblock Notify by b*web"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: adblock-notify.php:0
+#@ an-translate
+msgid "http://b-website.com/"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: adblock-notify.php:0
+#@ an-translate
+msgid "Brice CAPOBIANCO"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: adblock-notify.php:0
+#@ an-translate
+msgid "b-website.com"
+msgstr ""
+
+#: adblock-notify-options.php:70
+#@ an-translate
+msgid "Modal Box"
+msgstr "Boîte de Dialogue"
+
+#: adblock-notify-options.php:71
+#@ an-translate
+msgid "Page redirection"
+msgstr "Page de redirection"
+
+#. translators: plugin header field 'Description'
+#: adblock-notify.php:0
+#@ an-translate
+msgid "An Adblock detection and nofitication plugin with get around options and a lot of settings. Dashboard widget with adblock counter included!"
+msgstr "Plugin de détection des bloqueurs de pubs et de notification des utilisateurs. Nombreuses options disponibles. Un widget de tableau de bord avec des statistiques est inclus !"
+
+#: adblock-notify-options.php:78
+#@ an-translate
+msgid "Enable statistics Widget"
+msgstr "Activer le Widget de statistiques"
+
+#: adblock-notify-options.php:81
+#@ an-translate
+msgid "If you have many page views, this option may cause server overload. You can disable it to make the plugin more lightweight - Default: Yes"
+msgstr "Si vous avez beaucoup de pages vues, cette option peut provoquer une surcharge du serveur. Vous pouvez la désactiver pour rendre le plugin plus léger - Défaut : Oui"
+
+#: adblock-notify-functions.php:503
+#@ an-translate
+msgid "Adblock Notify Stats"
+msgstr ""
+
+#: adblock-notify-functions.php:655
+#@ an-translate
+msgid "Don't worry, we thought about it. Adblock Notify will print the scripts directly in your DOM, but for performance purpose it is recommended to change your uploads directory CHMOD!"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: adblock-notify.php:0
+#@ an-translate
+msgid "1.2"
+msgstr ""
+
+#: adblock-notify.php:160
+#@ an-translate
+msgid "More b*web Plugins"
+msgstr "Plus de plugins b*web"
+
+#: adblock-notify.php:161
+#@ an-translate
+msgid "Donate"
+msgstr "Faire un don"
+
+#: adblock-notify-functions.php:652
+#@ an-translate
+msgid "There was an error creating Adblock Notify CSS and JS files. Upload directory is not writable. Please CHMOD \"wp-content/uploads\" to 0777"
+msgstr ""
+
+#: adblock-notify-options.php:250
+#@ an-translate
+msgid "Put your custom CSS rules here. Modal Box ID is"
+msgstr "Insérer vos règles CSS ici. L'ID de la boîte de dialogue est"
+
+#: adblock-notify-options.php:251
+#: adblock-notify-options.php:368
+#@ an-translate
+msgid "This selector will be changed during settings update by a random new one to prevent adblock to hide this element. All the CSS and JS files are parsed to be updated with this new selectors. That is why you have to add your custom style in the above field and not in you theme stylesheet."
+msgstr "Ce sélecteur sera modifié pendant la mise à jour des paramètres par un nouveau généré aléatoirement afin d'éviter qu'Adblock ne puisse cacher cet élément. Tous les fichiers CSS et JS sont analysés pour être mis à jour avec ces nouveaux sélecteurs. Voilà pourquoi vous devez ajouter votre style personnalisé dans le champ ci-dessus et non dans la  feuille de style de votre thème."
+

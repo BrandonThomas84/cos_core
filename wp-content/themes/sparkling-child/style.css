@@ -1,0 +1,48 @@
+/*
+Theme Name: Sparkling Child Theme
+Theme URI:    http://perspektivedesigns.com/
+Description: Circle of Sisters custom theme
+Template: sparkling
+Author: Brandon Thomas
+Author URI: http://perspektivedesigns.com/
+Description: Child theme to extend the Sparkling Theme
+Version: 1.0.1
+Text Domain:  sparkling
+*/
+
+@import url("../sparkling/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.site-navigation-inner {
+	text-align: center;
+}
+#menu-primary-navigation {
+	float: none;
+	display: inline-block;
+}
+.event-featured-info {
+	border: 1px solid #ccc;
+	min-height: 200px;
+	padding-top: 12px;
+}
+
+.event-featured-info > div {
+	width: 49%;
+	margin-right: 1%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	float: left;
+	text-align: left;
+	padding: 0 0 12px 12px;
+}
+.event-featured-info > div > img {
+	max-height: 175px;
+}
+.reg-head-msg {
+	text-align: center;
+	background: #fff;
+	border: 1px solid;
+	font-size: 42px;
+	padding: 20px;
+}

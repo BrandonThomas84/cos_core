@@ -1,0 +1,20 @@
+.cdg-regReport-element {
+	width: 48%;
+	float: left;
+	margin: 10px 1% 20px 0;
+	border: 1px solid #d9d9d9;
+	background: #dfdfdf;
+}
+.cdg-regReport-element h3 {
+	margin: 10px;
+}
+.cdg-regReport-element-inner {
+	margin: 0 25px;
+	border-bottom: 1px dotted #333;
+	padding-bottom: 20px;
+}
+.cdg-regReport-button {
+	width: 50%;
+	float: left;
+	margin: 0;
+}

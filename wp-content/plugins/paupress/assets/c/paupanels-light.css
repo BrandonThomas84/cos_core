@@ -1,0 +1,217 @@
+/*	------------------------------------------------------- 
+	PANEL STRUCTURE
+	------------------------------------------------------- */
+
+#paupanels-wrapper {
+	background: #DDDDDD url('../g/pw_maze_white.png') top left repeat;
+	color: #333;
+}
+#paupanels-wrapper h1, 
+#paupanels-wrapper h2, 
+#paupanels-wrapper h3, 
+#paupanels-wrapper h4, 
+#paupanels-wrapper h5, 
+#paupanels-wrapper h6 {
+	color: #333 !important;
+	text-shadow: none !important;
+}
+#paupanels-wrapper a {
+	color: #333;
+}
+#paupanels-wrapper a:hover {
+	border-bottom: 1px dotted #333;
+}
+#paupanels-wrapper a.button, 
+#paupanels-wrapper input[type="submit"].button,  
+#paupanels-wrapper .button, 
+#paupanels-wrapper .button-primary {
+	color: #FFFFFF;
+	background-color: #999;
+	background-image: none;
+	border: none;
+	text-shadow: none;
+	font-weight: normal;
+}
+#paupanels-wrapper a.button:hover, 
+#paupanels-wrapper input[type="submit"].button:hover,  
+#paupanels-wrapper .button:hover, 
+#paupanels-wrapper .button-primary:hover {
+	text-shadow: none;
+	font-weight: normal;
+	background-color: #777;
+}
+
+
+/*	------------------------------------------------------- 
+	PANEL LINKS
+	------------------------------------------------------- */
+
+a.paupanels-close {
+	background: transparent url('../g/x-black.png') 0 -3px no-repeat;
+}
+
+
+/*	------------------------------------------------------- 
+	PANEL FORM SYSTEM
+	------------------------------------------------------- */
+
+.paupanels-req-notify .required {
+	color: #990000;
+}
+
+#paupress .required, 
+#paupress .asterix-required {
+color: #990000 !important;
+}
+
+/*	------------------------------------------------------- 
+	CHECKBOXES
+	------------------------------------------------------- */
+
+#paupanel #paupress a.umt, 
+#paupanel #paupress a.upt, 
+#paupanel #paupress a.uwpt {
+	color: #333;
+}
+
+/*	------------------------------------------------------- 
+	EXPANDABLE PANELS
+	------------------------------------------------------- */
+
+.t-wrapper {
+	background-color: #777777;
+	-moz-box-shadow: inset 0 0 10px #555555;
+	-webkit-box-shadow: inset 0 0 10px #555555;
+	box-shadow: inset 0 0 10px #555555;
+}
+.t-wrapper:hover, .t-wrapper.group:hover {
+	background-color: transparent;
+}
+.t-trigger {
+ 	padding: 10px 0;
+ }
+.t-wrapper.group {
+	padding: 5px 0;
+	background-color: transparent;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.t-trigger-wrapper.group {
+	float: left;
+	display: block;
+	border-bottom: 1px dashed #CCCCCC;
+	color: #333;
+}
+.t-wrapper.group .t-panel {
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+}
+.t-wrapper.group .t-panel {
+	-moz-border-radius-bottomleft: 5px;
+	-moz-border-radius-bottomright: 5px; 
+	-webkit-border-bottom-left-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	background-color: #CCC;
+	border-top: 1px dashed #000000;
+	padding: 10px;
+}
+.t-wrapper.group .t-panel li {
+	padding-left: 0;
+	color: #333;
+}
+
+#paupanel .umt {
+	color: #333;
+}
+#paupanel #paupress a.umt, 
+#paupanel #paupress a.upt, 
+#paupanel #paupress a.uwpt, 
+#paupanel #paupress a.rui, 
+#paupanel #paupress a.pmt, 
+#paupanel a.umt, 
+#paupanel a.upt, 
+#paupanel a.uwpt, 
+#paupanel a.rui, 
+#paupanel a.pmt, 
+#paupanel .icon-no  { 
+	background-image: url('../g/no.png');
+	
+}
+#paupanel #paupress a.pmt, 
+#paupanel a.pmt {
+	background-image: url('../g/private-black.png');
+}
+#paupanel #paupress a.help, 
+#paupanel a.help {
+	background-image: url('../g/help.png');
+}
+#paupanel #paupress a.add, 
+#paupanel a.add, 
+#paupanel #paupress a.query_add, 
+#paupanel a.query_add {
+	background-image: url('../g/add-black.png');
+}
+#paupanel #paupress a.sub, 
+#paupanel a.sub, 
+#paupanel #paupress a.query_sub, 
+#paupanel a.query_sub {
+	background-image: url('../g/sub-black.png');
+}
+
+#paupanel #paupress a.umt:hover, 
+#paupanel #paupress a.upt:hover, 
+#paupanel #paupress a.uwpt:hover, 
+#paupanel #paupress a.rui:hover, 
+#paupanel #paupress a.pmt:hover { 
+	/*-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background-color: #CCCCCC;*/
+	/*opacity: 100;*/
+}
+
+#paupanel #paupress a.umt.on, 
+#paupanel #paupress a.upt.on, 
+#paupanel #paupress a.uwpt.on, 
+#paupanel #paupress a.rui.on, 
+#paupanel a.umt.on, 
+#paupanel a.upt.on, 
+#paupanel a.uwpt.on, 
+#paupanel a.rui.on { 
+	background-image: url('../g/ok.png');
+	/*display: inline;*/
+}
+#paupanel #paupress a.pmt.on, 
+#paupanel a.pmt.on {
+	background-image: url('../g/public-black.png');
+}
+#paupress .photo {
+	float: none;
+	padding: 0;
+}
+#paupress .photo:hover {
+	background: none;
+}
+
+#paupanel #paupress #profile-navigation a.button.on {
+	background-color: #333;
+}
+#paupanel #paupress .tn-wrapper {
+	background: none;
+	border-bottom: 1px dashed #CCCCCC;
+	
+}
+.chzn-select, .chzn-container {
+	color: #333;
+}
+.halt {
+	background: url('../g/halt-black.png') top left no-repeat;
+	padding-top: 15px !important;
+}
+.halt-example {
+	background: url('../g/halt-black.png') top left no-repeat;
+	padding: 5px 15px;
+}
+

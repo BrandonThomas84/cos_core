@@ -1,0 +1,87 @@
+<div class="row-fluid cdg-regReport-element">
+	<h3>
+		Report Settings:
+	</h3>
+	<div class="cdg-regReport-element-inner">
+		<div>Report Type
+		<select id="report-type" data-identity="">
+			<option></option>
+			<option value="r" data-type="order">Orders by Order Date</option>
+			<option value="f" data-type="order">Orders by First Name</option>
+			<option value="l" data-type="order">Orders by Last Name</option>
+		</select>
+		</div>
+		<div>Results Order
+		<select id="report-order-direction" data-identity="">
+			<option></option>
+			<option value="desc" data-type="direc">A ot Z / Newest to Oldest</option>
+			<option value="asc" data-type="direc">Z ot A / Oldest to Newest</option>
+		</select>
+		</div>
+		<h4>Select an Output Type</h4>
+		<div class="clear"></div>
+		<div id="cdg-report-download-button" class="cdg-regReport-button">
+			<a data-output="dl" target="_blank" class="button button-primary disabled">Download (tab delimited file)</a>
+		</div>
+		<div id="cdg-report-display-button" class="cdg-regReport-button">
+			<a data-output="display" target="_blank" class="button button-primary disabled">View Report</a>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<script>
+	jQuery(document).ready( function($){
+
+		//make sure buttons only work when all options have been selected
+		$(".cdg-regReport-button > a").click(function(){
+
+			if( $("#report-order-direction").val() !== false 
+				&& typeof $("#report-order-direction").val() !== typeof undefined 
+				&&  $("#report-order-direction").val() !== ''
+				&& $("#report-type").val() !== false 
+				&& typeof $("#report-type").val() !== typeof undefined 
+				&&  $("#report-type").val() !== ''  
+			){
+
+				var outputType = $(this).data('output');
+				var outputDirect = $("#report-order-direction").val();
+				var outputOrder = $("#report-type").val();
+
+				var windowHref = "/wp-admin/edit.php?post_type=wpsc_cart_orders&page=wpsc-order-reporting&order="+outputOrder+"&direc="+outputDirect+"&output="+outputType;
+
+				window.open(windowHref,'Order Reporting','width=300,height=500,resizable=yes,scrollbars=yes,toolbar=no,location=no,directories=no,status=yes,menu=no')
+
+			} else {
+				alert('You must select both the "Report Type" and "Results Order" value.');
+				event.preventDefault();
+			}
+		});
+
+		//enable /disable buttons
+		function enableReportButtons(){
+			if( $("#report-order-direction").val() !== false 
+				&& typeof $("#report-order-direction").val() !== typeof undefined 
+				&&  $("#report-order-direction").val() !== ''
+				&& $("#report-type").val() !== false 
+				&& typeof $("#report-type").val() !== typeof undefined 
+				&&  $("#report-type").val() !== ''  
+			){
+				$(".cdg-regReport-button > a").each(function(){
+					$(this).removeClass('disabled');
+				});
+			} else {
+				$(".cdg-regReport-button > a").each(function(){
+					$(this).addClass('disabled');
+				});
+			}
+		};
+
+		$("#report-type").change(function(event) {
+			enableReportButtons();
+		});
+
+		$("#report-order-direction").change(function(event) {
+			enableReportButtons();
+		});
+	});
+</script>
